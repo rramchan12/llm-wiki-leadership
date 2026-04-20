@@ -1,0 +1,45 @@
+---
+title: "Intrinsic Motivation"
+category: concept
+tags: [motivation, purpose, curiosity, passion, autonomy, mastery, self-leadership, peak-performance]
+sources: [kotler-art-of-impossible, kotler-gnar-country, harris-happiness-trap]
+created: 2026-04-20
+updated: 2026-04-20
+---
+
+# Intrinsic Motivation
+
+**Definition:** Drive that comes from within — curiosity, passion, purpose, autonomy, mastery — rather than from external rewards like money, status, or approval. Intrinsic motivation is more durable, more energizing, and more closely linked to flow and peak performance than extrinsic motivation.
+
+## Why It Matters
+
+Extrinsic motivation gets you started. Intrinsic motivation keeps you going when the work gets hard, boring, or scary. Every sustained high performer runs primarily on intrinsic drivers. Kotler demonstrates that these drivers aren't mystical — they're biological systems with known triggers that can be deliberately cultivated.
+
+## The Motivation Stack (Kotler)
+
+Build bottom-up — each layer amplifies the next:
+
+| Layer | What It Is | How to Build It |
+|---|---|---|
+| **Curiosity** | What fascinates you? | 15–20 min/day exploring intersecting interests |
+| **Passion** | Where 3+ curiosities overlap | Follow the overlaps; passion isn't found, it's developed |
+| **Purpose** | Passion directed toward helping others | Add a meaningful/altruistic dimension |
+| **Autonomy** | Freedom to pursue in your own way | Negotiate control over time, team, technique, task |
+| **Mastery** | The drive to get better | Deliberate practice with progressive challenge |
+
+At the top: **Massively Transformative Purpose (MTP)** — a mission statement so bold it organizes your life.
+
+## How Books Treat This
+
+| Book | Stance | Key Insight |
+|------|--------|-------------|
+| [[kotler-art-of-impossible]] | Defines | The full motivation stack: curiosity → passion → purpose → autonomy → mastery → MTP. Each layer is a scientific lever, not a personality trait. |
+| [[kotler-gnar-country]] | Applies | The Gnar Country experiment is intrinsic motivation in action: curiosity about aging → passion for skiing → purpose (proving what's possible) → mastery (incremental progression). |
+| [[harris-happiness-trap]] | Supports | ACT's [[values-based-action]] is the therapeutically grounded version of intrinsic motivation: act from what matters, not from what avoids pain. |
+| [[brewer-unwinding-anxiety]] | Supports | Curiosity is both the foundation of intrinsic motivation (Kotler) and the "bigger better offer" that replaces anxiety (Brewer). Same mechanism, different application. |
+
+## Connections
+
+- Related: [[values-based-action]], [[goal-setting]], [[flow-states]]
+- Related: [[habit-loops]] — intrinsic motivation creates positive reward loops
+- Applied in: [[pursuing-impossible-goals]]
