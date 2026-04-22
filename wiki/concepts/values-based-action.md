@@ -2,7 +2,7 @@
 title: "Values-Based Action"
 category: concept
 tags: [values, purpose, meaning, self-leadership, act, motivation]
-sources: [harris-happiness-trap, kotler-art-of-impossible, kotler-gnar-country]
+sources: [harris-happiness-trap, kotler-art-of-impossible, kotler-gnar-country, heath-decisive, arbinger-anatomy-of-peace]
 created: 2026-04-20
 updated: 2026-04-20
 ---
@@ -39,4 +39,4 @@ Without values clarity, decisions default to emotional avoidance: we do what fee
 
 - Related: [[psychological-flexibility]], [[intrinsic-motivation]], [[goal-setting]]
 - Related: [[ruthless-prioritization]] — values are the filter for what gets your limited time
-- Applied in: [[managing-negative-thought-patterns]], [[pursuing-impossible-goals]]
+- Applied in: [[managing-negative-thought-patterns]], [[pursuing-impossible-goals]], [[feeling-like-an-underachiever]]

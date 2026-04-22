@@ -2,7 +2,7 @@
 title: "Situation: Navigating Interpersonal Conflict"
 category: situation
 tags: [conflict, relationships, leadership, self-deception, outward-mindset, communication]
-sources: [arbinger-self-deception, arbinger-anatomy-of-peace, harris-happiness-trap, heath-decisive]
+sources: [arbinger-self-deception, arbinger-anatomy-of-peace, harris-happiness-trap, heath-decisive, burns-feeling-good]
 created: 2026-04-20
 updated: 2026-04-20
 ---

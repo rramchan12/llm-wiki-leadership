@@ -101,3 +101,7 @@ These three questions address all four villains with minimal time investment.
 - [[four-villains-of-decision-making]] — diagnostic lens
 - [[premortem]] — Step 5 tool detail
 - [[tripwires]] — Step 5 tool detail
+
+## Connections
+- Related situations: [[starting-a-new-leadership-role]], [[pursuing-impossible-goals]], [[navigating-interpersonal-conflict]]
+- Core concepts: [[wrap-framework]], [[four-villains-of-decision-making]], [[premortem]], [[tripwires]]

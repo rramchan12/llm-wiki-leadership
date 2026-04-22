@@ -55,5 +55,5 @@ Later life is "Gnar Country" — territory with real risk and real opportunity. 
 
 ## Connections
 
-- Supports: [[peak-performance-aging]], [[flow-states]], [[resilience]], [[goal-setting]]
-- See also: [[steven-kotler]]
+- Supports: [[peak-performance-aging]], [[flow-states]], [[goal-setting]], [[community-and-group-flow]], [[incremental-progression]], [[stacked-practices]], [[gnar-country-mindset]], [[intrinsic-motivation]], [[fear-management]], [[resilience]], [[ruthless-prioritization]], [[developmental-gateways]], [[fast-geometry]]
+- See also: [[steven-kotler]], [[kotler-art-of-impossible]], [[pursuing-impossible-goals]]

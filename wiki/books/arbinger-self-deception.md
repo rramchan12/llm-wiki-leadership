@@ -35,6 +35,8 @@ You **cannot** think your way out. Instead:
 3. **See them as a person.** Deliberately recall their humanity — their struggles, their hopes.
 4. The box dissolves when you stop needing to be right.
 
+> **Note:** Arbinger elsewhere states, "There are no techniques for getting out of the box — there are only ways of *being* outside it." These steps are not a checklist or technique — they describe orientations and impulses that naturally arise when one's heart is already outward. The numbered form is a descriptive map of what that shift looks like, not a procedure to follow mechanically.
+
 ---
 
 ## Core Thesis

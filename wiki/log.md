@@ -253,3 +253,19 @@ No pages are missing from the index — all 45 audited files correspond to index
 - Concepts referenced: cognitive-distortions, cognitive-defusion, self-deception, habit-loops, values-based-action, intrinsic-motivation, psychological-flexibility
 - Updated: wiki/index.md
 - Pages touched: 2 (1 new + 1 updated)
+
+---
+
+## [2026-04-22] update | Lint fixes applied
+
+- Created 6 missing concept pages: `fear-management`, `resilience`, `ruthless-prioritization`, `developmental-gateways`, `fast-geometry`, `RAIN`
+- Fixed orphan `feeling-like-an-underachiever.md`: added inbound links from 3 situation pages and 7 concept pages
+- Fixed frontmatter `sources` fields in 5 files: `psychological-flexibility.md`, `values-based-action.md`, `intrinsic-motivation.md`, `pursuing-impossible-goals.md`, `navigating-interpersonal-conflict.md`
+- Added Connections section to `facing-a-major-decision.md`
+- Expanded Connections section in `kotler-gnar-country.md`
+- Corrected index footer: Total pages: 51
+- Updated `burns-feeling-good.md` to note 1999 revised edition
+- Attributed 7-year lifespan claim in `peak-performance-aging.md` to Becca Levy (2002)
+- Added clarifying note to `arbinger-self-deception.md` reconciling "no techniques" vs. listed steps
+- Added CBT vs. ACT reconciliation note to `cognitive-distortions.md`
+- Updated `wiki/index.md` with 6 new concept pages

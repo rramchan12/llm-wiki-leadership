@@ -7,9 +7,11 @@ created: 2026-04-20
 updated: 2026-04-20
 ---
 
-# Feeling Good: The New Mood Therapy — David D. Burns (1980)
+# Feeling Good: The New Mood Therapy — David D. Burns (1980; revised 1999)
 
 **One-liner:** Your moods are created by your thoughts, not your circumstances — and by learning to identify and correct distorted thinking patterns, you can reliably improve how you feel.
+
+> **Note:** The substantially revised 1999 edition is the version most clinicians reference today. Chapter structure may differ from the 1980 original.
 
 ---
 

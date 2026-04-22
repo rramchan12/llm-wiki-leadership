@@ -53,4 +53,7 @@ These three approaches are complementary, not competing.
 ## Connections
 
 - Related: [[cognitive-defusion]], [[psychological-flexibility]], [[habit-loops]], [[four-villains-of-decision-making]], [[self-deception]]
-- Applied in: [[managing-negative-thought-patterns]], [[breaking-anxiety-cycles]]
+- Applied in: [[managing-negative-thought-patterns]], [[breaking-anxiety-cycles]], [[feeling-like-an-underachiever]]
+
+## CBT vs. ACT: A Note on Complementary Philosophies
+Burns (CBT) holds that distorted thinking *causes* emotional distress — fixing the thought fixes the feeling. Harris (ACT) reframes the problem: it is not the thought content but the *fusion* with thought (believing thoughts are literally true) that causes suffering. ACT does not require thoughts to be "corrected" — only defused from. In practice: use **cognitive restructuring** (Burns) when you need to evaluate the accuracy of a belief; use **cognitive defusion** (Harris) when the belief's accuracy is irrelevant and you need to reduce its behavioral grip. The two tools target different levers and work best in combination.

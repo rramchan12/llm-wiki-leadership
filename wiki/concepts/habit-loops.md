@@ -50,4 +50,4 @@ The brain doesn't care if the reward is objectively good — it only cares about
 - Related: [[psychological-flexibility]] (flexibility = ability to step outside the loop)
 - Related: [[cognitive-defusion]] (defusion interrupts the trigger → behavior chain)
 - Related: [[flow-states]] (flow is a positive habit loop: challenge → engagement → reward → more challenge)
-- Applied in: [[breaking-anxiety-cycles]], [[managing-negative-thought-patterns]]
+- Applied in: [[breaking-anxiety-cycles]], [[managing-negative-thought-patterns]], [[feeling-like-an-underachiever]]

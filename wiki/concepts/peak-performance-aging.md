@@ -26,7 +26,7 @@ Most people treat aging as managed decline. Peak-performance aging rejects this 
 - **Superpowers of aging:** Brain shifts in 50s unlock intelligence, creativity, empathy, wisdom
 - **Developmental gateways:** Identity resolution (30), intrinsic alignment (40), emotional clearing (50), counteracting risk aversion (ongoing)
 - **Use-it-or-lose-it:** Physical and cognitive abilities are trainable at any age
-- **Mindset adds years:** A shift in mindset toward aging can add ~7 years to lifespan
+- **Mindset adds years:** A shift in mindset toward aging can add ~7 years to lifespan (Becca Levy, 2002)
 
 ## Connections
 

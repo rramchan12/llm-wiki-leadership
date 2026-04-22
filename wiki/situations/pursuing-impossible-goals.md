@@ -2,7 +2,7 @@
 title: "Situation: Pursuing Seemingly Impossible Goals"
 category: situation
 tags: [peak-performance, motivation, flow, goals, creativity, self-leadership, grit]
-sources: [kotler-art-of-impossible, kotler-gnar-country, heath-decisive, harris-happiness-trap]
+sources: [kotler-art-of-impossible, kotler-gnar-country, heath-decisive, harris-happiness-trap, brewer-unwinding-anxiety]
 created: 2026-04-20
 updated: 2026-04-20
 ---
@@ -92,5 +92,5 @@ Start at the bottom. Don't set the goal first — build the fuel first.
 
 ## Connections
 
-- Related situations: [[facing-a-major-decision]], [[breaking-anxiety-cycles]]
+- Related situations: [[facing-a-major-decision]], [[breaking-anxiety-cycles]], [[feeling-like-an-underachiever]]
 - Core concepts: [[intrinsic-motivation]], [[flow-states]], [[goal-setting]], [[incremental-progression]], [[psychological-flexibility]], [[habit-loops]]

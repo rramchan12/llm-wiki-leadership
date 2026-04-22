@@ -97,5 +97,5 @@ More worry ←──────────────────────
 
 ## Connections
 
-- Related situations: [[managing-negative-thought-patterns]]
+- Related situations: [[managing-negative-thought-patterns]], [[feeling-like-an-underachiever]]
 - Core concepts: [[habit-loops]], [[cognitive-defusion]], [[psychological-flexibility]], [[cognitive-distortions]]

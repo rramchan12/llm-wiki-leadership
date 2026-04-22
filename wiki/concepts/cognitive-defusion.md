@@ -39,4 +39,4 @@ Cognitive "fusion" means being tangled up in thoughts: if the mind says "I'm a f
 - Part of: [[psychological-flexibility]] (one of the six pillars)
 - Related: [[cognitive-distortions]] (defusion is an alternative to distortion-challenging)
 - Related: [[habit-loops]] (defusion interrupts the automatic trigger → behavior chain)
-- Applied in: [[managing-negative-thought-patterns]], [[breaking-anxiety-cycles]]
+- Applied in: [[managing-negative-thought-patterns]], [[breaking-anxiety-cycles]], [[feeling-like-an-underachiever]]

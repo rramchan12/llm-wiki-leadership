@@ -49,4 +49,4 @@ Self-deception is the root cause of most persistent interpersonal problems. When
 - Related: [[cognitive-distortions]] (individual-level equivalent)
 - Related: [[four-villains-of-decision-making]] (decision-level equivalent)
 - Related: [[psychological-flexibility]] (flexibility is the counter to the rigidity of the box)
-- Applied in: [[navigating-interpersonal-conflict]]
+- Applied in: [[navigating-interpersonal-conflict]], [[feeling-like-an-underachiever]]

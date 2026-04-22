@@ -27,7 +27,10 @@
 | [[community-and-group-flow]] | Training partners and tribe accelerate learning and sustain motivation. | kotler-gnar-country, kotler-art-of-impossible | 2026-04-20 |
 | [[cognitive-defusion]] | Unhooking from thoughts without changing their content. | harris-happiness-trap, brewer-unwinding-anxiety | 2026-04-20 |
 | [[cognitive-distortions]] | 10 systematic thinking errors; cross-book concept (CBT, ACT, habit-loops). | burns-feeling-good, harris-happiness-trap, brewer-unwinding-anxiety, heath-decisive | 2026-04-20 |
+| [[developmental-gateways]] | Kotler skill thresholds that unlock new performance levels. | kotler-gnar-country | 2026-04-22 |
 | [[early-wins]] | Visible, meaningful results that build credibility in the first 30–60 days. | watkins-first-90-days, kotler-art-of-impossible | 2026-04-20 |
+| [[fast-geometry]] | Expert pattern-recognition enabling flow in complex environments. | kotler-gnar-country | 2026-04-22 |
+| [[fear-management]] | Using fear as productive information rather than trigger for avoidance. | kotler-gnar-country, kotler-art-of-impossible | 2026-04-22 |
 | [[flow-states]] | The challenge-skills balance as the engine of growth and peak performance; 22 triggers. | kotler-gnar-country, kotler-art-of-impossible | 2026-04-20 |
 | [[four-villains-of-decision-making]] | Narrow framing, confirmation bias, short-term emotion, and overconfidence. | heath-decisive | 2026-04-20 |
 | [[gnar-country-mindset]] | Reframing aging as high-risk/high-opportunity terrain requiring grit, not resignation. | kotler-gnar-country | 2026-04-20 |
@@ -39,6 +42,9 @@
 | [[peak-performance-aging]] | Sustaining capability, drive, and adventure in later life. | kotler-gnar-country | 2026-04-20 |
 | [[premortem]] | Assume failure has already occurred, then work backwards to surface risks. | heath-decisive | 2026-04-20 |
 | [[psychological-flexibility]] | ACT core: present, open to experience, values-engaged despite discomfort. | harris-happiness-trap, brewer-unwinding-anxiety | 2026-04-20 |
+| [[RAIN]] | Four-step mindfulness technique for working with difficult emotions. | brewer-unwinding-anxiety | 2026-04-22 |
+| [[resilience]] | Trainable capacity to absorb setbacks and continue pursuing long-term goals. | kotler-gnar-country, kotler-art-of-impossible | 2026-04-22 |
+| [[ruthless-prioritization]] | Systematic elimination of lower-value commitments to protect peak-performance time. | kotler-gnar-country, kotler-art-of-impossible | 2026-04-22 |
 | [[self-deception]] | Blindness to your own contribution to problems ("the box"). | arbinger-self-deception, arbinger-anatomy-of-peace | 2026-04-20 |
 | [[stacked-practices]] | Multi-tool training integrated into daily routines. | kotler-gnar-country | 2026-04-20 |
 | [[transition-acceleration]] | Treating leadership transitions as a learnable discipline. | watkins-first-90-days | 2026-04-20 |
@@ -85,4 +91,4 @@
 
 ---
 
-*Total pages: 47 | Last updated: 2026-04-20*
+*Total pages: 51 | Last updated: 2026-04-22*

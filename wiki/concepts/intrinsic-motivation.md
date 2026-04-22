@@ -2,7 +2,7 @@
 title: "Intrinsic Motivation"
 category: concept
 tags: [motivation, purpose, curiosity, passion, autonomy, mastery, self-leadership, peak-performance]
-sources: [kotler-art-of-impossible, kotler-gnar-country, harris-happiness-trap]
+sources: [kotler-art-of-impossible, kotler-gnar-country, harris-happiness-trap, brewer-unwinding-anxiety]
 created: 2026-04-20
 updated: 2026-04-20
 ---
@@ -42,4 +42,4 @@ At the top: **Massively Transformative Purpose (MTP)** — a mission statement s
 
 - Related: [[values-based-action]], [[goal-setting]], [[flow-states]]
 - Related: [[habit-loops]] — intrinsic motivation creates positive reward loops
-- Applied in: [[pursuing-impossible-goals]]
+- Applied in: [[pursuing-impossible-goals]], [[feeling-like-an-underachiever]]

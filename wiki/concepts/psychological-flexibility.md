@@ -2,7 +2,7 @@
 title: "Psychological Flexibility"
 category: concept
 tags: [act, mindfulness, values, mental-health, self-leadership, adaptability]
-sources: [harris-happiness-trap, brewer-unwinding-anxiety, kotler-art-of-impossible]
+sources: [harris-happiness-trap, brewer-unwinding-anxiety, kotler-art-of-impossible, arbinger-self-deception, burns-feeling-good]
 created: 2026-04-20
 updated: 2026-04-20
 ---
@@ -40,4 +40,4 @@ Psychological rigidity — fusion with thoughts, avoidance of discomfort, discon
 
 - Related: [[cognitive-defusion]], [[values-based-action]], [[habit-loops]], [[cognitive-distortions]]
 - Related: [[flow-states]] — flow requires the present-moment awareness and willingness that define flexibility
-- Applied in: [[managing-negative-thought-patterns]], [[breaking-anxiety-cycles]]
+- Applied in: [[managing-negative-thought-patterns]], [[breaking-anxiety-cycles]], [[feeling-like-an-underachiever]]
