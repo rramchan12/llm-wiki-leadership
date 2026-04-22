@@ -44,3 +44,28 @@ raw/books/<slug>/notes.md   →   LLM reads, synthesizes   →   wiki/ pages cre
 **Decision-Making / Transitions / Peak Performance** — Decisive (Heath & Heath), The First 90 Days (Watkins), The Art of Impossible (Kotler), Gnar Country (Kotler)
 
 → See [wiki/index.md](wiki/index.md) for the full page catalog.
+
+## Playwright MCP Integration
+
+This repo includes a workspace-level MCP server configuration in
+`.vscode/settings.json` so Copilot Chat can use browser automation tools.
+
+### Included Server
+
+- `playwright` via `@executeautomation/playwright-mcp-server`
+
+### Prerequisites
+
+1. Install Node.js (includes `npx`).
+2. Use VS Code with GitHub Copilot Chat enabled.
+
+### How To Use
+
+1. Reload the VS Code window after pulling the repo.
+2. In Copilot Chat (agent mode), ask for a browser task, for example:
+     `Use the playwright MCP server to open https://example.com and return the page title.`
+
+### Notes
+
+- Public pages work best; authenticated/paywalled sites may block automation.
+- Keep MCP configuration limited to trusted servers.

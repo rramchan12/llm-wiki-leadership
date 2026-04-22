@@ -1,0 +1,8 @@
+{
+  "github.copilot.chat.mcp.servers": {
+    "playwright": {
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@executeautomation/playwright-mcp-server@latest"]
+    }
+  }
+}
