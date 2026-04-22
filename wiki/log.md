@@ -85,6 +85,158 @@
   - `wiki/concepts/wrap-framework.md` — four-step WRAP decision framework
   - `wiki/concepts/four-villains-of-decision-making.md` — narrow framing, confirmation bias, short-term emotion, overconfidence
   - `wiki/concepts/premortem.md` — assume-failure mental simulation technique
+
+---
+
+## [2026-04-22] lint | Full wiki health-check
+
+### Findings
+
+#### 1. Contradictions
+
+**1.1 Arbinger "No Techniques" vs. Listed Steps**
+- Files: `wiki/books/arbinger-anatomy-of-peace.md` vs. `wiki/books/arbinger-self-deception.md`
+- `arbinger-anatomy-of-peace.md` quotes: "There are no techniques for getting out of the box." Yet `arbinger-self-deception.md` provides four numbered steps for getting out of the box. `wiki/concepts/self-deception.md` also presents a numbered six-step sequence. The pages do not reconcile this tension.
+- Recommendation: Add a clarifying note in `arbinger-self-deception.md` that these steps are orientations reflecting a shift of heart, not a checklist.
+
+**1.2 Burns vs. Harris: Philosophical Root of Suffering**
+- Files: `wiki/books/burns-feeling-good.md` vs. `wiki/books/harris-happiness-trap.md`
+- Burns: "Depression is not an emotional problem at all. It's a thinking problem." Harris: struggling against negative emotions is itself the problem. ACT explicitly challenges the CBT assumption that fixing thinking fixes feelings. The wiki notes they are complementary but leaves the philosophical tension unresolved.
+- Recommendation: Create a synthesis page "CBT vs. ACT: How to Choose" or add a reconciliation note to `wiki/concepts/cognitive-distortions.md`.
+
+---
+
+#### 2. Stale / Superseded Claims
+
+**2.1 Feeling Good — 1980 Edition Only**
+- File: `wiki/books/burns-feeling-good.md`
+- The 1999 revised edition is what clinicians and researchers cite today. The page makes no mention of the 1999 revision; readers obtaining the 1980 original may find chapter structure mismatches.
+- Recommendation: Update title line to note both editions (1980; revised 1999).
+
+**2.2 Unsourced 7-Year Lifespan Claim**
+- File: `wiki/concepts/peak-performance-aging.md`
+- States "A shift in mindset toward aging can add ~7 years to lifespan" without attribution. This is from Becca Levy's 2002 research (not ingested).
+- Recommendation: Attribute claim to Becca Levy or flag as unverified.
+
+**2.3 Index Footer Count Discrepancy**
+- Files: `wiki/log.md`, `wiki/index.md`
+- Log records 46 pages cataloged + 1 added = 47. Manual count of index tables yields 45 (9 books + 21 concepts + 8 people + 7 situations). Footer is off by 2.
+- Recommendation: Correct index footer to "Total pages: 45."
+
+---
+
+#### 3. Orphan Pages
+
+**3.1 `wiki/situations/feeling-like-an-underachiever.md` — Near-Orphan**
+- This situation page links outward to `[[managing-negative-thought-patterns]]`, `[[breaking-anxiety-cycles]]`, and `[[pursuing-impossible-goals]]` but NONE of those pages link back to it.
+- `managing-negative-thought-patterns.md` Related situations: `[[breaking-anxiety-cycles]], [[facing-a-major-decision]]` — no link to feeling-like-an-underachiever
+- `breaking-anxiety-cycles.md` Related situations: `[[managing-negative-thought-patterns]]` only
+- `pursuing-impossible-goals.md` Related situations: `[[facing-a-major-decision]], [[breaking-anxiety-cycles]]` — no link to feeling-like-an-underachiever
+- Additionally, concept pages that should list it in "Applied in" but don't: `cognitive-distortions`, `cognitive-defusion`, `habit-loops`, `self-deception`, `intrinsic-motivation`, `psychological-flexibility`, `values-based-action`.
+- Recommendation: Add `[[feeling-like-an-underachiever]]` to "Related situations" in the three situation pages above, and to "Applied in" in the eight concept pages above.
+
+---
+
+#### 4. Missing Concept Pages
+
+The following concepts are referenced via `[[wikilink]]` in multiple pages but have no concept page:
+
+| Missing Concept | Referenced In | Inbound Link Count |
+|---|---|---|
+| `[[fear-management]]` | `flow-states.md`, `community-and-group-flow.md`, `kotler-gnar-country.md`, `gnar-country-mindset.md`, `incremental-progression.md`, `goal-setting.md` | 6 |
+| `[[resilience]]` | `kotler-gnar-country.md`, `community-and-group-flow.md`, `stacked-practices.md`, `gnar-country-mindset.md`, `peak-performance-aging.md` | 5 |
+| `[[ruthless-prioritization]]` | `kotler-gnar-country.md`, `goal-setting.md`, `values-based-action.md`, `stacked-practices.md`, `gnar-country-mindset.md` | 5 |
+| `[[developmental-gateways]]` | `kotler-gnar-country.md`, `peak-performance-aging.md`, `gnar-country-mindset.md` | 3 |
+| `[[fast-geometry]]` | `kotler-gnar-country.md`, `flow-states.md` | 2 |
+| `[[RAIN]]` | `brewer-unwinding-anxiety.md` (key framework, no concept page created) | 1 |
+
+Additional concepts mentioned in prose but never formally paged:
+- Growth mindset (Dweck) — cited in `kotler-art-of-impossible.md` as prerequisite for peak performance
+- Massively Transformative Purpose (MTP) — heavily used in `kotler-art-of-impossible.md` and `intrinsic-motivation.md`
+- Ooching — described in `wrap-framework.md` and `heath-decisive.md` as a distinct technique
+
+High-priority (5+ broken links): `fear-management`, `resilience`, `ruthless-prioritization`.
+
+---
+
+#### 5. Missing Cross-References
+
+**5.1 `wiki/situations/facing-a-major-decision.md` — No Connections Section**
+- Every other situation page has a "Connections" block. This page ends with "Sources & Related Pages" only — no links to related situations.
+- Missing: `[[starting-a-new-leadership-role]]`, `[[pursuing-impossible-goals]]`, `[[navigating-interpersonal-conflict]]`.
+
+**5.2 `wiki/books/kotler-gnar-country.md` — Sparse Connections Section**
+- Connections section only has: "Supports: [[peak-performance-aging]], [[flow-states]], [[resilience]], [[goal-setting]] — See also: [[steven-kotler]]"
+- Missing: `[[community-and-group-flow]]`, `[[incremental-progression]]`, `[[stacked-practices]]`, `[[gnar-country-mindset]]`, `[[intrinsic-motivation]]`, `[[pursuing-impossible-goals]]`.
+
+**5.3 `wiki/concepts/self-deception.md` — Narrow "Applied in"**
+- "Applied in: `[[navigating-interpersonal-conflict]]`" only.
+- Missing: `[[starting-a-new-leadership-role]]`, `[[feeling-like-an-underachiever]]`.
+
+**5.4 `wiki/concepts/values-based-action.md` — Missing Situation Links**
+- "Applied in: `[[managing-negative-thought-patterns]], [[pursuing-impossible-goals]]`"
+- Missing: `[[breaking-anxiety-cycles]]` (Step 4), `[[feeling-like-an-underachiever]]` (Step 5).
+
+**5.5 `wiki/concepts/intrinsic-motivation.md` — Missing Inbound Situation Link**
+- "Applied in: `[[pursuing-impossible-goals]]`" only.
+- Missing: `[[feeling-like-an-underachiever]]`.
+
+---
+
+#### 6. Frontmatter Issues
+
+| File | Issue |
+|---|---|
+| `concepts/psychological-flexibility.md` | `sources` field missing `arbinger-self-deception` and `burns-feeling-good` — both discussed substantively in body |
+| `concepts/values-based-action.md` | `sources` field missing `heath-decisive` and `arbinger-anatomy-of-peace` — both in "How Books Treat This" table |
+| `concepts/intrinsic-motivation.md` | `sources` field missing `brewer-unwinding-anxiety` — appears in "How Books Treat This" table |
+| `situations/pursuing-impossible-goals.md` | `sources` field missing `brewer-unwinding-anxiety` — used in Backing Evidence table |
+| `situations/navigating-interpersonal-conflict.md` | `sources` field missing `burns-feeling-good` — used in Backing Evidence table |
+| `wiki/index.md` | Footer "Total pages: 47" does not match manual count of 45 cataloged entries (9+21+8+7). Off by 2. |
+
+All other pages pass frontmatter validation (title, category, tags, sources, created, updated present and non-empty).
+
+---
+
+#### 7. Index Gaps
+
+No pages are missing from the index — all 45 audited files correspond to index entries. The sole issue is the footer count discrepancy (47 stated vs. 45 actual).
+
+---
+
+#### 8. Gaps / Suggested Reading
+
+| Gap | Why It Matters | Suggested Source |
+|---|---|---|
+| Change management | `dan-heath.md` and `chip-heath.md` reference *Switch* (Rider/Elephant/Path) as directly relevant; no book or concept page | *Switch* — Chip & Dan Heath |
+| Deliberate practice | Referenced in Kotler pages (Ericsson) as learning mechanism; no concept page | *Peak* — Anders Ericsson |
+| Growth mindset | Cited in `kotler-art-of-impossible.md` as prerequisite; no page | *Mindset* — Carol Dweck |
+| Psychological safety | Directly relevant to `community-and-group-flow.md` and `outward-mindset.md`; not represented | *The Fearless Organization* — Amy Edmondson |
+| Systems thinking / upstream | Dan Heath's *Upstream* mentioned in `dan-heath.md` but no book page | *Upstream* — Dan Heath |
+| Feedback and coaching | Watkins addresses team assessment; no concept page on giving/receiving feedback | *Thanks for the Feedback* — Stone & Heen |
+| Organizational culture | Watkins repeatedly cites culture as constraint; no concept or book page | *Organizational Culture and Leadership* — Schein |
+| Emotional intelligence | Runs through Arbinger and Watkins themes but not represented | *Emotional Intelligence* — Goleman |
+| Stoicism | Values-based action, acceptance of discomfort connect directly to Harris and Kotler | *Meditations* — Marcus Aurelius |
+
+---
+
+#### Priority Summary
+
+| Priority | Finding |
+|---|---|
+| 🔴 High | 6 missing concept pages with 2–6 broken inbound links each (`fear-management`, `resilience`, `ruthless-prioritization`, `developmental-gateways`, `fast-geometry`, `RAIN`) |
+| 🔴 High | `feeling-like-an-underachiever.md` orphan — no inbound links from 3 related situation pages or 8 concept pages |
+| 🟡 Medium | 5 files with incomplete frontmatter `sources` fields |
+| 🟡 Medium | `facing-a-major-decision.md` missing Connections section |
+| 🟡 Medium | `kotler-gnar-country.md` sparse Connections section |
+| 🟢 Low | Index footer count wrong (47 vs. 45 actual) |
+| 🟢 Low | `burns-feeling-good.md` does not note 1999 revised edition |
+| 🟢 Low | Unsourced 7-year lifespan claim in `peak-performance-aging.md` |
+| 🟢 Low | Arbinger "no techniques" vs. listed steps unreconciled across two book pages |
+
+- Pages audited: 45
+- Pages with issues: 20+
+- Broken wikilinks (missing target pages): ~22 total across 6 missing concept pages
   - `wiki/concepts/tripwires.md` — pre-set decision review triggers
   - `wiki/people/chip-heath.md` — author profile
   - `wiki/people/dan-heath.md` — author profile
