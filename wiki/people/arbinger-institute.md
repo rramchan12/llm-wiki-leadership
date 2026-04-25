@@ -2,9 +2,9 @@
 title: "The Arbinger Institute"
 category: person
 tags: [self-deception, outward-mindset, conflict-resolution, leadership, relationships]
-sources: [arbinger-self-deception, arbinger-anatomy-of-peace]
+sources: [arbinger-self-deception, arbinger-anatomy-of-peace, arbinger-outward-mindset]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-25
 ---
 
 # The Arbinger Institute
@@ -19,7 +19,7 @@ Arbinger provides the deepest treatment in this wiki of *relational* self-awaren
 
 - **[[self-deception]]** ("The Box") — Being blind to your own contribution to problems while seeing others' faults clearly.
 - **Self-Betrayal** — The origin of the box: sensing you should do something for another person and choosing not to.
-- **[[outward-mindset]]** — Seeing others as people with real needs, challenges, and objectives.
+- **[[outward-mindset]]** — Seeing others as people with real needs, challenges, and objectives. Operationalized via the SAM framework in [[arbinger-outward-mindset]].
 - **The Four Boxes** — Better-Than, I-Deserve, Must-Be-Seen-As, Worse-Than. Four flavors of heart-at-war.
 - **The Pyramid of Influence** — Get out of the box → build the relationship → listen → teach → correct.
 - **Collusion** — Two boxed people provoking each other's worst behavior.
@@ -30,6 +30,7 @@ Arbinger provides the deepest treatment in this wiki of *relational* self-awaren
 |------|-----------------|
 | [[arbinger-self-deception]] | Self-deception as root cause of leadership failure; the box concept |
 | [[arbinger-anatomy-of-peace]] | Four boxes, heart at war vs. peace, pyramid of influence, correction with connection |
+| [[arbinger-outward-mindset]] | SAM framework (See-Adjust-Measure); three levels of turning outward (individual, team, organization); accountability with outward mindset |
 
 ## Connections
 

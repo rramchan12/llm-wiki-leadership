@@ -2,7 +2,7 @@
 title: "Psychological Flexibility"
 category: concept
 tags: [act, mindfulness, values, mental-health, self-leadership, adaptability]
-sources: [harris-happiness-trap, brewer-unwinding-anxiety, kotler-art-of-impossible, arbinger-self-deception, burns-feeling-good]
+sources: [harris-happiness-trap, brewer-unwinding-anxiety, kotler-art-of-impossible, arbinger-self-deception, burns-feeling-good, crucial-conversations]
 created: 2026-04-20
 updated: 2026-04-20
 ---
@@ -35,9 +35,10 @@ Psychological rigidity — fusion with thoughts, avoidance of discomfort, discon
 | [[kotler-art-of-impossible]] | Implicit | Peak performers exhibit extreme psychological flexibility: holding fear while performing, maintaining flow despite setbacks, staying values-aligned under pressure. |
 | [[arbinger-self-deception]] | Implicit | Being "out of the box" is a form of relational psychological flexibility: seeing others as people rather than being fused with self-justifying narratives. |
 | [[burns-feeling-good]] | Complementary | CBT builds flexibility at the thought-content level; ACT builds it at the relationship-to-thoughts level. |
+| [[crucial-conversations]] | Applies | "Master My Stories" is psychological flexibility applied to dialogue: notice your stories (defusion), question them (acceptance), and choose a response aligned with Mutual Purpose (values-based action). |
 
 ## Connections
 
 - Related: [[cognitive-defusion]], [[values-based-action]], [[habit-loops]], [[cognitive-distortions]]
 - Related: [[flow-states]] — flow requires the present-moment awareness and willingness that define flexibility
-- Applied in: [[managing-negative-thought-patterns]], [[breaking-anxiety-cycles]], [[feeling-like-an-underachiever]]
+- Applied in: [[managing-negative-thought-patterns]], [[breaking-anxiety-cycles]], [[feeling-like-an-underachiever]], [[navigating-interpersonal-conflict]]

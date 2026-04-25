@@ -2,9 +2,9 @@
 title: "Chip Heath"
 category: person
 tags: [decision-making, behavioral-economics, psychology, organizational-behavior, communication]
-sources: [heath-decisive]
+sources: [heath-decisive, heath-switch, heath-made-to-stick, heath-power-of-moments]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-25
 ---
 
 # Chip Heath
@@ -33,11 +33,14 @@ Chip Heath (with his brother Dan) built one of the most practically accessible b
 | Book | Themes |
 |------|--------|
 | [[heath-decisive]] | Decision-making, WRAP framework, cognitive bias |
+| [[heath-switch]] | Change management, Rider-Elephant-Path framework |
+| [[heath-made-to-stick]] | Sticky communication, SUCCESs framework, Curse of Knowledge |
+| [[heath-power-of-moments]] | Defining moments: Elevation, Insight, Pride, Connection |
 
 ---
 
 ## Connections
 
 - Co-author: [[dan-heath]]
-- Core framework: [[wrap-framework]], [[four-villains-of-decision-making]]
+- Core framework: [[wrap-framework]], [[four-villains-of-decision-making]], [[rider-elephant-path]], [[sticky-communication]], [[defining-moments]]
 - See also: [[premortem]], [[tripwires]]

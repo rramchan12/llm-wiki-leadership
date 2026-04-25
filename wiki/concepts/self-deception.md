@@ -2,9 +2,9 @@
 title: "Self-Deception"
 category: concept
 tags: [self-awareness, leadership, relationships, conflict, mindset, arbinger]
-sources: [arbinger-self-deception, arbinger-anatomy-of-peace]
+sources: [arbinger-self-deception, arbinger-anatomy-of-peace, arbinger-outward-mindset]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-25
 ---
 
 # Self-Deception
@@ -39,6 +39,7 @@ Self-deception is the root cause of most persistent interpersonal problems. When
 |------|--------|-------------|
 | [[arbinger-self-deception]] | Defines | Self-deception ("the box") is the root cause of leadership dysfunction. Self-betrayal starts the loop. |
 | [[arbinger-anatomy-of-peace]] | Extends | Four specific boxes; the pyramid of influence for getting out; correction with connection. |
+| [[arbinger-outward-mindset]] | Prescribes | Self-deception is the inward mindset; the SAM framework (See-Adjust-Measure) is the operational cure. Behavioral change without mindset change fails. |
 | [[burns-feeling-good]] | Parallels | Burns's cognitive distortions are self-deception at the individual level. Emotional reasoning ("I feel it, so it's true") is the cognitive equivalent of being in the box. |
 | [[harris-happiness-trap]] | Parallels | Fusion with self-justifying stories is a form of self-deception. ACT's self-as-context ("I am the observer") is a way out. |
 | [[heath-decisive]] | Parallels | Confirmation bias is self-deception in the decision domain: you can't see the evidence against your preferred option. |

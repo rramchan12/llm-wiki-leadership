@@ -2,9 +2,9 @@
 title: "Premortem"
 category: concept
 tags: [decision-making, risk-management, planning, mental-models, leadership, judgment]
-sources: [heath-decisive]
+sources: [heath-decisive, stoic-leader]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-25
 ---
 
 # Premortem
@@ -58,6 +58,7 @@ Research by Klein shows that premortems increase the ability to identify reasons
 | Book | Stance | Key Insight |
 |------|--------|-------------|
 | [[heath-decisive]] | Prescribes | The premortem is the primary tool for the P (Prepare to be wrong) step of WRAP |
+| [[stoic-leader]] | Parallels | Stoic premeditation of adversity builds emotional readiness and decision clarity before setbacks arrive. |
 
 ---
 
@@ -65,5 +66,6 @@ Research by Klein shows that premortems increase the ability to identify reasons
 
 - Part of: [[wrap-framework]] (P step)
 - Complements: [[tripwires]] (premortem identifies risks; tripwires monitor for them)
+- Complements: [[dichotomy-of-control]] (separate response choices from external uncertainty)
 - Counters: overconfidence (one of the [[four-villains-of-decision-making]])
 - Applied in: [[facing-a-major-decision]]

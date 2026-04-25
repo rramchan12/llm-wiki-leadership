@@ -2,9 +2,9 @@
 title: "Steven Kotler"
 category: person
 tags: [author, flow, peak-performance, human-performance]
-sources: [kotler-gnar-country, kotler-art-of-impossible]
+sources: [kotler-gnar-country, kotler-art-of-impossible, kotler-rise-of-superman]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-25
 ---
 
 # Steven Kotler
@@ -29,6 +29,7 @@ Kotler's work centers on the idea that peak performance is scientifically traina
 |------|-----------------|
 | [[kotler-gnar-country]] | Peak-performance aging, applying flow science to skill acquisition at 53 |
 | [[kotler-art-of-impossible]] | Complete peak-performance blueprint: motivation stack, 22 flow triggers, creativity cycle, high-hard goals |
+| [[kotler-rise-of-superman]] | The neuroscience of flow: transient hypofrontality, neurochemical cocktail, 17 triggers, flow cycle, group flow |
 
 ## Connections
 

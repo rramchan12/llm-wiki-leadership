@@ -2,9 +2,9 @@
 title: "Early Wins"
 category: concept
 tags: [transitions, credibility, momentum, leadership, strategy, new-role]
-sources: [watkins-first-90-days, kotler-art-of-impossible]
+sources: [watkins-first-90-days, kotler-art-of-impossible, heath-made-to-stick, heath-switch, heath-power-of-moments]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-25
 ---
 
 # Early Wins
@@ -40,8 +40,11 @@ Credibility is the currency of new leadership. Before people trust your judgment
 | [[kotler-art-of-impossible]] | Parallels | Daily clear goals serve the same function in the peak-performance context: each small win sustains the motivation stack and keeps the brain's reward system engaged. |
 | [[kotler-gnar-country]] | Parallels | [[incremental-progression]] is the early-wins strategy for skill acquisition: each micro-improvement builds confidence and keeps fear manageable. |
 | [[heath-decisive]] | Supports | "Ooching" — running small experiments — is a form of early win: low-cost, informative, credibility-building. |
+| [[heath-made-to-stick]] | Supports | Wins that aren't communicated don't build momentum. Use [[sticky-communication]] (SUCCESs) to make wins visible, concrete, and memorable. |
+| [[heath-switch]] | Supports | "Shrink the change" (Motivate the Elephant) is the early-wins strategy for change initiatives: make the first step so small it's impossible to fail. |
+| [[heath-power-of-moments]] | Extends | An early win framed as a [[defining-moments|defining moment]] — with elevation, recognition, and shared celebration — has outsized impact on team momentum. |
 
 ## Connections
 
-- Related: [[transition-acceleration]], [[incremental-progression]], [[goal-setting]]
+- Related: [[transition-acceleration]], [[incremental-progression]], [[goal-setting]], [[sticky-communication]], [[rider-elephant-path]], [[defining-moments]]
 - Applied in: [[starting-a-new-leadership-role]], [[pursuing-impossible-goals]]

@@ -1,10 +1,10 @@
 ---
 title: "Outward Mindset"
 category: concept
-tags: [mindset, leadership, relationships, empathy, arbinger, self-awareness]
-sources: [arbinger-self-deception, arbinger-anatomy-of-peace]
+tags: [mindset, leadership, relationships, empathy, arbinger, self-awareness, accountability]
+sources: [arbinger-self-deception, arbinger-anatomy-of-peace, arbinger-outward-mindset, scott-radical-candor, crucial-conversations]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-25
 ---
 
 # Outward Mindset
@@ -25,17 +25,30 @@ An outward mindset is the foundation of effective leadership, collaboration, and
 | **Correction style** | Connection first, then honest feedback | Blame first, justify second |
 | **Effect on others** | Trust, openness, collaboration | Defensiveness, resentment, collusion |
 
+## The SAM Framework
+
+Introduced in [[arbinger-outward-mindset]], SAM operationalizes the outward mindset shift:
+
+1. **See others:** Identify stakeholders. What are their needs, objectives, and challenges?
+2. **Adjust efforts:** Given what you see, how should you change what you're doing to be most helpful?
+3. **Measure impact:** Am I measuring success by whether others are succeeding, or only by my own deliverables?
+
+SAM works at three levels: individual practice, team accountability, and organizational design (metrics, job descriptions, incentives).
+
 ## How Books Treat This
 
 | Book | Stance | Key Insight |
 |------|--------|-------------|
 | [[arbinger-self-deception]] | Defines | Being "out of the box" = outward mindset. You get out by honoring impulses toward others, not by technique. |
 | [[arbinger-anatomy-of-peace]] | Extends | The Pyramid of Influence: get out of the box first → build the relationship → listen → teach → correct. Outward mindset is the prerequisite for all influence. |
+| [[arbinger-outward-mindset]] | Operationalizes | The SAM framework (See-Adjust-Measure) makes outward mindset a daily practice. Accountability from outward mindset = investment; from inward = punishment. |
 | [[harris-happiness-trap]] | Supports | ACT's values-based action often involves choosing to act with care toward others *despite* discomfort — an inherently outward move. |
 | [[watkins-first-90-days]] | Applies | Watkins's mandate to learn before acting, listen before prescribing, and build alliances before pushing change is outward mindset in the transition context. |
+| [[scott-radical-candor]] | Applies | "Care Personally" requires outward mindset — genuinely seeing others' needs. Without it, challenging directly becomes Obnoxious Aggression and caring becomes Ruinous Empathy. |
+| [[crucial-conversations]] | Applies | Mutual Purpose and Mutual Respect — the two safety conditions for dialogue — are outward mindset in action. You cannot make it safe if you see the other person as an obstacle. |
 
 ## Connections
 
 - Opposite of: [[self-deception]]
-- Related: [[values-based-action]], [[psychological-flexibility]]
+- Related: [[values-based-action]], [[psychological-flexibility]], [[radical-candor]], [[crucial-conversations-framework]]
 - Applied in: [[navigating-interpersonal-conflict]], [[starting-a-new-leadership-role]]

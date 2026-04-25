@@ -2,9 +2,9 @@
 title: "Intrinsic Motivation"
 category: concept
 tags: [motivation, purpose, curiosity, passion, autonomy, mastery, self-leadership, peak-performance]
-sources: [kotler-art-of-impossible, kotler-gnar-country, harris-happiness-trap, brewer-unwinding-anxiety]
+sources: [kotler-art-of-impossible, kotler-gnar-country, kotler-rise-of-superman, csikszentmihalyi-finding-flow, harris-happiness-trap, brewer-unwinding-anxiety]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-25
 ---
 
 # Intrinsic Motivation
@@ -35,6 +35,8 @@ At the top: **Massively Transformative Purpose (MTP)** — a mission statement s
 |------|--------|-------------|
 | [[kotler-art-of-impossible]] | Defines | The full motivation stack: curiosity → passion → purpose → autonomy → mastery → MTP. Each layer is a scientific lever, not a personality trait. |
 | [[kotler-gnar-country]] | Applies | The Gnar Country experiment is intrinsic motivation in action: curiosity about aging → passion for skiing → purpose (proving what's possible) → mastery (incremental progression). |
+| [[kotler-rise-of-superman]] | Neurochemical basis | Flow's neurochemical cocktail (especially dopamine) is the biological engine of intrinsic motivation — the brain's reward system drives you back to flow-inducing activities. |
+| [[csikszentmihalyi-finding-flow]] | Foundational | The autotelic personality — setting goals for every activity, becoming immersed, proportioning skills to challenges — is intrinsic motivation as a daily practice. |
 | [[harris-happiness-trap]] | Supports | ACT's [[values-based-action]] is the therapeutically grounded version of intrinsic motivation: act from what matters, not from what avoids pain. |
 | [[brewer-unwinding-anxiety]] | Supports | Curiosity is both the foundation of intrinsic motivation (Kotler) and the "bigger better offer" that replaces anxiety (Brewer). Same mechanism, different application. |
 

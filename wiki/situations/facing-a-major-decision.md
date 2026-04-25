@@ -2,9 +2,9 @@
 title: "Situation: Facing a Major Decision"
 category: situation
 tags: [decision-making, leadership, strategy, judgment, cognitive-bias, mental-models]
-sources: [heath-decisive]
+sources: [heath-decisive, stoic-leader, crucial-conversations]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-25
 ---
 
 # Situation: Facing a Major Decision
@@ -53,6 +53,7 @@ Before applying any tool, ask: which of the [[four-villains-of-decision-making]]
 3. **Assign a devil's advocate.** Ask someone who disagrees with your frontrunner to make their best case. Don't rebut — just listen and capture.
 4. If possible, **ooch**: design a small, cheap experiment that will produce real information before you commit. What's the minimum viable test?
 5. **Check base rates**: What do people who have done this before actually report? What's the outside view?
+6. **Safety-check the dialogue** ([[crucial-conversations-framework]]): If this decision involves other stakeholders, is the conversation safe? Are people contributing honestly to the pool of shared meaning, or have they gone to silence/violence? A decision made without real input is a decision made on incomplete data.
 
 **Exit criterion:** You have actively sought at least one credible source of disconfirming information for your preferred option.
 
@@ -65,6 +66,7 @@ Before applying any tool, ask: which of the [[four-villains-of-decision-making]]
 2. Ask yourself: **"What would I tell my best friend to do in this exact situation?"** Write that advice down without filtering.
 3. Check against **core priorities**: Does each option honor what you said mattered most *before* this decision arrived? (If you haven't pre-defined your priorities, do that now as a first step.)
 4. Apply the **"new CEO" test**: If a new leader walked in tomorrow with no prior investment in any of these options, what would they choose?
+5. Apply the **control filter** ([[dichotomy-of-control]]): separate what you can choose now from what you can only monitor.
 
 **Exit criterion:** You can articulate why your leading option is consistent with your long-term priorities, not just how you feel right now.
 
@@ -76,7 +78,8 @@ Before applying any tool, ask: which of the [[four-villains-of-decision-making]]
 1. Run a **[[premortem]]** on your leading option: "It's one year from now. We made this choice and it failed significantly. What happened?" (Write individually before discussing as a group.)
 2. Run a **pre-parade**: "It's one year from now. This succeeded brilliantly. What made it work?"
 3. **Bookend the future**: Identify the realistic disaster scenario and the realistic breakthrough scenario. Your plan should address both.
-4. Set at least one **[[tripwire]]**: "If [specific condition] occurs by [specific date], we will stop and reassess." Assign someone to monitor it.
+4. Set at least one **[[tripwires|tripwire]]**: "If [specific condition] occurs by [specific date], we will stop and reassess." Assign someone to monitor it.
+5. Add a Stoic check: "If externals go against us, what response remains fully in our control and aligned with [[stoic-virtues]]?"
 
 **Exit criterion:** You have a documented tripwire and at least one mitigation for the most likely failure mode identified in the premortem.
 
@@ -97,6 +100,8 @@ These three questions address all four villains with minimal time investment.
 ## Sources & Related Pages
 
 - [[heath-decisive]] — full framework and examples
+- [[stoic-leader]] — strengthen WRAP with control focus and virtue checks under uncertainty
+- [[crucial-conversations]] — ensure the decision dialogue itself is safe and honest (Pool of Shared Meaning)
 - [[wrap-framework]] — the systematic process behind this playbook
 - [[four-villains-of-decision-making]] — diagnostic lens
 - [[premortem]] — Step 5 tool detail
@@ -104,4 +109,4 @@ These three questions address all four villains with minimal time investment.
 
 ## Connections
 - Related situations: [[starting-a-new-leadership-role]], [[pursuing-impossible-goals]], [[navigating-interpersonal-conflict]]
-- Core concepts: [[wrap-framework]], [[four-villains-of-decision-making]], [[premortem]], [[tripwires]]
+- Core concepts: [[wrap-framework]], [[four-villains-of-decision-making]], [[premortem]], [[tripwires]], [[dichotomy-of-control]], [[stoic-virtues]], [[crucial-conversations-framework]]

@@ -91,7 +91,7 @@ More worry ←──────────────────────
 
 | Source | Key Point |
 |--------|-----------|
-| [[brewer-unwinding-anxiety]] | Anxiety is a [[habit-loops\|habit loop]]; curiosity is the neurologically grounded BBO |
+| [[brewer-unwinding-anxiety]] | Anxiety is a [[habit-loops|habit loop]]; curiosity is the neurologically grounded BBO |
 | [[harris-happiness-trap]] | Experiential avoidance amplifies suffering; [[cognitive-defusion]] + [[values-based-action]] = freedom |
 | [[burns-feeling-good]] | [[cognitive-distortions]] (fortune-telling, catastrophizing, emotional reasoning) fuel the cycle |
 

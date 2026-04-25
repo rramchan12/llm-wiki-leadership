@@ -2,7 +2,7 @@
 title: "Situation: Navigating Interpersonal Conflict"
 category: situation
 tags: [conflict, relationships, leadership, self-deception, outward-mindset, communication]
-sources: [arbinger-self-deception, arbinger-anatomy-of-peace, harris-happiness-trap, heath-decisive, burns-feeling-good]
+sources: [arbinger-self-deception, arbinger-anatomy-of-peace, arbinger-outward-mindset, scott-radical-candor, harris-happiness-trap, heath-decisive, burns-feeling-good, crucial-conversations]
 created: 2026-04-20
 updated: 2026-04-20
 ---
@@ -41,6 +41,12 @@ Deliberately shift your attention:
 
 This isn't about excusing bad behavior. It's about recovering your ability to see clearly.
 
+### Step 2.5 — Apply SAM (Arbinger, *The Outward Mindset*)
+Once you can see the person, operationalize it:
+1. **See:** What are their actual needs, objectives, and challenges right now?
+2. **Adjust:** How should I change what I'm doing to be genuinely helpful — not helpful-for-my-image?
+3. **Measure:** Am I tracking whether *they* are succeeding, or only whether *I* look reasonable?
+
 ### Step 3 — Follow the Pyramid of Influence (Arbinger)
 *Only after you're out of the box:*
 
@@ -62,6 +68,21 @@ Apply the WRAP lens:
 - **Attain distance** — 10/10/10: How will this conflict look in 10 months?
 - **Prepare to be wrong** — What if I'm the primary contributor here?
 
+### Step 6 — Give and Invite Feedback with Radical Candor (Scott)
+Once you're out of the box and emotionally grounded:
+- **Care Personally:** Show genuine concern for the relationship. This is not a technique — it flows from the outward mindset work in Steps 1-2.
+- **Challenge Directly:** Name the specific behavior and its impact. "When you [behavior], the impact is [consequence]. I'd like to discuss how we can work differently."
+- **Solicit first:** Before giving criticism, ask: "What could I do differently to make this work better?" See [[radical-candor]].
+
+### Step 7 — Use Crucial Conversations Mechanics (Patterson et al.)
+When the conversation itself is the crucible — high stakes, differing opinions, strong emotions:
+1. **Start with Heart:** Clarify what you *really* want: for yourself, for them, for the relationship.
+2. **Make It Safe:** Restore Mutual Purpose ("I want to find something that works for both of us") and Mutual Respect before continuing.
+3. **STATE Your Path:** Share your *facts* first → Tell your *story* tentatively → Ask for *their* path → Talk tentatively → Encourage testing.
+4. **Explore Their Path (AMPP):** Ask → Mirror → Paraphrase → Prime — especially when they've gone to silence or violence.
+5. **Move to Action:** End with clear who-does-what-by-when. Dialogue without decision = wasted conversation.
+See [[crucial-conversations-framework]].
+
 ---
 
 ## Pitfalls to Avoid
@@ -79,11 +100,14 @@ Apply the WRAP lens:
 |--------|-----------|
 | [[arbinger-self-deception]] | [[self-deception]] is the root cause; self-betrayal starts the loop |
 | [[arbinger-anatomy-of-peace]] | Four boxes diagnostic; the Pyramid of Influence; correction with connection |
+| [[arbinger-outward-mindset]] | SAM framework operationalizes seeing others: See needs → Adjust efforts → Measure impact on *them* |
 | [[harris-happiness-trap]] | [[cognitive-defusion]] for self-justifying stories; [[values-based-action]] for acting with integrity despite discomfort |
 | [[burns-feeling-good]] | [[cognitive-distortions]] fuel conflict: mind-reading, should statements, personalization |
 | [[heath-decisive]] | [[wrap-framework]] reality-tests assumptions that drive conflict escalation |
+| [[crucial-conversations]] | [[crucial-conversations-framework]]: STATE your path (facts first), restore safety (Mutual Purpose + Mutual Respect), AMPP listening for when others go to silence/violence |
 
 ## Connections
 
 - Related situations: [[facing-a-major-decision]], [[managing-negative-thought-patterns]]
-- Core concepts: [[self-deception]], [[outward-mindset]], [[cognitive-defusion]], [[cognitive-distortions]], [[psychological-flexibility]]
+- Core concepts: [[self-deception]], [[outward-mindset]], [[cognitive-defusion]], [[cognitive-distortions]], [[psychological-flexibility]], [[radical-candor]], [[crucial-conversations-framework]]
+- Cross-book analysis: [[behavior-change-communication-conflict]]

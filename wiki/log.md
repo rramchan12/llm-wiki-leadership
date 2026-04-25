@@ -269,3 +269,147 @@ No pages are missing from the index — all 45 audited files correspond to index
 - Added clarifying note to `arbinger-self-deception.md` reconciling "no techniques" vs. listed steps
 - Added CBT vs. ACT reconciliation note to `cognitive-distortions.md`
 - Updated `wiki/index.md` with 6 new concept pages
+
+## [2026-04-25] ingest | The Stoic Leader — John Sellars & Justin Stead
+
+- Source: `raw/books/stoic-leader/notes.md`
+- Created:
+  - `wiki/books/stoic-leader.md`
+  - `wiki/concepts/dichotomy-of-control.md`
+  - `wiki/concepts/stoic-virtues.md`
+  - `wiki/people/john-sellars.md`
+  - `wiki/people/justin-stead.md`
+- Updated:
+  - `wiki/concepts/values-based-action.md`
+  - `wiki/concepts/premortem.md`
+  - `wiki/situations/facing-a-major-decision.md`
+  - `wiki/situations/starting-a-new-leadership-role.md`
+  - `wiki/index.md`
+- Pages touched: 10 (5 created + 5 updated)
+- Status: complete
+
+## [2026-04-25] ingest | The Outward Mindset — The Arbinger Institute
+
+- Source: model knowledge (raw notes at `raw/books/arbinger-outward-mindset/notes.md`)
+- Created:
+  - `wiki/books/arbinger-outward-mindset.md`
+- Updated:
+  - `wiki/concepts/outward-mindset.md` (added SAM framework, Outward Mindset book row)
+  - `wiki/concepts/self-deception.md` (added Outward Mindset row in How Books Treat This)
+  - `wiki/people/arbinger-institute.md` (added Outward Mindset to books table)
+  - `wiki/situations/navigating-interpersonal-conflict.md` (added SAM step 2.5)
+  - `wiki/situations/starting-a-new-leadership-role.md` (added SAM to Days 1-30)
+  - `wiki/index.md`
+- Pages touched: 7 (1 created + 6 updated)
+- Status: complete
+
+## [2026-04-25] ingest | Switch — Chip Heath & Dan Heath
+
+- Source: model knowledge (raw notes at `raw/books/heath-switch/notes.md`)
+- Created:
+  - `wiki/books/heath-switch.md`
+  - `wiki/concepts/rider-elephant-path.md`
+- Updated:
+  - `wiki/people/chip-heath.md` (added Switch to books table)
+  - `wiki/people/dan-heath.md` (added Switch to books table)
+  - `wiki/situations/starting-a-new-leadership-role.md` (added Rider-Elephant-Path lens to Days 30-60)
+  - `wiki/index.md`
+- Pages touched: 6 (2 created + 4 updated)
+- Status: complete
+
+## [2026-04-25] ingest | Made to Stick — Chip Heath & Dan Heath
+
+- Source: model knowledge (raw notes at `raw/books/heath-made-to-stick/notes.md`)
+- Created:
+  - `wiki/books/heath-made-to-stick.md`
+  - `wiki/concepts/sticky-communication.md`
+- Updated:
+  - `wiki/concepts/early-wins.md` (added Made to Stick + Switch references)
+  - `wiki/people/chip-heath.md` (added Made to Stick to books table)
+  - `wiki/people/dan-heath.md` (added Made to Stick to books table)
+  - `wiki/index.md`
+- Pages touched: 6 (2 created + 4 updated)
+- Status: complete
+
+## [2026-04-25] ingest | The Power of Moments — Chip Heath & Dan Heath
+
+- Source: model knowledge (raw notes at `raw/books/heath-power-of-moments/notes.md`)
+- Created:
+  - `wiki/books/heath-power-of-moments.md`
+  - `wiki/concepts/defining-moments.md`
+- Updated:
+  - `wiki/concepts/early-wins.md` (added Power of Moments reference)
+  - `wiki/people/chip-heath.md` (added Power of Moments to books table)
+  - `wiki/people/dan-heath.md` (added Power of Moments to books table)
+  - `wiki/situations/starting-a-new-leadership-role.md` (added defining moment design to Week 1)
+  - `wiki/index.md`
+- Pages touched: 7 (2 created + 5 updated)
+- Status: complete
+
+## [2026-04-25] ingest | The Rise of Superman — Steven Kotler
+
+- Source: model knowledge (raw notes at `raw/books/kotler-rise-of-superman/notes.md`)
+- Created:
+  - `wiki/books/kotler-rise-of-superman.md`
+- Updated:
+  - `wiki/concepts/flow-states.md` (added Rise of Superman neuroscience row)
+  - `wiki/concepts/intrinsic-motivation.md` (added neurochemical basis row)
+  - `wiki/concepts/community-and-group-flow.md` (added group flow demonstration row)
+  - `wiki/people/steven-kotler.md` (added Rise of Superman to books table)
+  - `wiki/index.md`
+- Pages touched: 6 (1 created + 5 updated)
+- Status: complete
+
+## [2026-04-25] ingest | Finding Flow — Mihaly Csikszentmihalyi
+
+- Source: model knowledge (raw notes at `raw/books/csikszentmihalyi-finding-flow/notes.md`)
+- Created:
+  - `wiki/books/csikszentmihalyi-finding-flow.md`
+  - `wiki/people/mihaly-csikszentmihalyi.md`
+- Updated:
+  - `wiki/concepts/flow-states.md` (added Csikszentmihalyi foundational row)
+  - `wiki/concepts/intrinsic-motivation.md` (added autotelic personality row)
+  - `wiki/index.md`
+- Pages touched: 5 (2 created + 3 updated)
+- Status: complete
+
+## [2026-04-25] ingest | Radical Candor — Kim Scott
+
+- Source: model knowledge (raw notes at `raw/books/scott-radical-candor/notes.md`)
+- Created:
+  - `wiki/books/scott-radical-candor.md`
+  - `wiki/concepts/radical-candor.md`
+  - `wiki/people/kim-scott.md`
+- Updated:
+  - `wiki/concepts/outward-mindset.md` (added Radical Candor row)
+  - `wiki/concepts/values-based-action.md` (added Radical Candor row)
+  - `wiki/situations/navigating-interpersonal-conflict.md` (added Step 6: Radical Candor feedback)
+  - `wiki/situations/starting-a-new-leadership-role.md` (added feedback culture step to Days 30-60)
+  - `wiki/index.md`
+- Pages touched: 8 (3 created + 5 updated)
+- Status: complete
+
+## [2026-04-25] ingest | Crucial Conversations — Kerry Patterson et al.
+
+- Source: model knowledge (raw notes at `raw/books/crucial-conversations/notes.md`)
+- Created:
+  - `wiki/books/crucial-conversations.md`
+  - `wiki/concepts/crucial-conversations-framework.md`
+  - `wiki/people/kerry-patterson.md`
+- Updated:
+  - `wiki/concepts/psychological-flexibility.md` (added Crucial Conversations row — Master My Stories as dialogue flexibility)
+  - `wiki/concepts/outward-mindset.md` (added Crucial Conversations row — Mutual Purpose/Respect require outward mindset)
+  - `wiki/situations/navigating-interpersonal-conflict.md` (added Step 7: Crucial Conversations mechanics — STATE, AMPP, safety)
+  - `wiki/situations/facing-a-major-decision.md` (added safety-check step for decision dialogues)
+  - `wiki/index.md`
+- Pages touched: 8 (3 created + 5 updated)
+- Status: complete
+
+## [2026-04-25] update | Synthesis: Behavior Change, Communication & Conflict
+
+- Created:
+  - `wiki/synthesis/behavior-change-communication-conflict.md`
+- Updated:
+  - `wiki/index.md` (added synthesis page, bumped count to 73)
+- Pages touched: 2 (1 created + 1 updated)
+- Status: complete
