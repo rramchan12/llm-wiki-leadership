@@ -79,5 +79,5 @@ Three complementary approaches, each attacking the problem from a different angl
 
 ## Connections
 
-- Related situations: [[breaking-anxiety-cycles]], [[facing-a-major-decision]], [[feeling-like-an-underachiever]]
+- Related situations: [[breaking-anxiety-cycles]], [[sudden-low-mood]], [[facing-a-major-decision]], [[feeling-like-an-underachiever]]
 - Core concepts: [[cognitive-distortions]], [[cognitive-defusion]], [[psychological-flexibility]], [[habit-loops]], [[values-based-action]]

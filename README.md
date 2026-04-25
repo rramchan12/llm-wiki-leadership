@@ -35,15 +35,23 @@ raw/books/<slug>/notes.md   →   LLM reads, synthesizes   →   wiki/ pages cre
 | `wiki/log.md` | Chronological record of all ingests and updates. |
 | `AGENTS.md` | Agent schema, templates, and operating instructions. |
 
-## Current Library (9 books)
+## Current Library (18 books)
 
 **CBT / Mood / Mental Health** — Feeling Good (Burns), The Happiness Trap (Harris), Unwinding Anxiety (Brewer)
 
-**Conflict / Relationships** — Leadership and Self-Deception (Arbinger), The Anatomy of Peace (Arbinger)
+**Flow & Peak Performance** — The Art of Impossible (Kotler), Gnar Country (Kotler), Rise of Superman (Kotler), Finding Flow (Csikszentmihalyi)
 
-**Decision-Making / Transitions / Peak Performance** — Decisive (Heath & Heath), The First 90 Days (Watkins), The Art of Impossible (Kotler), Gnar Country (Kotler)
+**Decision-Making & Change** — Decisive (Heath & Heath), Switch (Heath & Heath), Made to Stick (Heath & Heath), The Power of Moments (Heath & Heath)
 
-→ See [wiki/index.md](wiki/index.md) for the full page catalog.
+**Leadership Transitions** — The First 90 Days (Watkins)
+
+**Conflict, Relationships & Mindset** — Leadership and Self-Deception (Arbinger), The Anatomy of Peace (Arbinger), The Outward Mindset (Arbinger)
+
+**Communication & Feedback** — Crucial Conversations (Patterson et al.), Radical Candor (Scott)
+
+**Stoic Leadership** — The Stoic Leader (Sellars & Stead)
+
+→ See [wiki/index.md](wiki/index.md) for the full page catalog (74 pages across books, concepts, people, situations, and synthesis).
 
 ## Playwright MCP Integration
 

@@ -5,6 +5,16 @@
 
 ---
 
+## [2026-04-25] query | You suddenly feel low
+
+- Query: "Coach me on when I suddenly feel low"
+- Read: wiki/situations/managing-negative-thought-patterns.md, wiki/situations/breaking-anxiety-cycles.md, wiki/concepts/RAIN.md, wiki/concepts/cognitive-distortions.md, wiki/concepts/dichotomy-of-control.md
+- Created: wiki/situations/sudden-low-mood.md (5-layer playbook: RAIN → distortion diagnosis → defusion → Stoic agency → values-based action)
+- Updated: wiki/index.md (page count 73 → 74)
+- Pages touched: 2
+
+---
+
 ## [2026-04-20] init | Wiki created
 
 - Initialized AGENTS.md schema
@@ -413,3 +423,26 @@ No pages are missing from the index — all 45 audited files correspond to index
   - `wiki/index.md` (added synthesis page, bumped count to 73)
 - Pages touched: 2 (1 created + 1 updated)
 - Status: complete
+
+---
+
+## [2026-04-25] lint | Wiki health-check + structural fixes
+
+**Findings:**
+- README stale: listed 9 books, wiki has 18 → fixed
+- `wiki/index.md`: all `[[slug]]` links used Obsidian wiki-link syntax, not standard Markdown → converted to relative links with human-readable display names
+- Redundancy: `sudden-low-mood.md` Layers 2 & 3 copied CBT step sequence + full distortion table + defusion steps verbatim from `managing-negative-thought-patterns.md` → compressed to summaries with cross-references
+- `sudden-low-mood` missing from Connections of `breaking-anxiety-cycles` and `managing-negative-thought-patterns` → fixed
+- No contradictions found between pages
+- No orphan pages
+- **Gaps flagged (not fixed — need new books or queries):**
+  - Synthesis section has only 1 page; could expand to: mood regulation across books, peak performance stack comparison
+  - No situation pages yet for: giving radically candid feedback, designing defining moments, enabling flow on a team, switching entrenched behavior at scale
+
+**Updated:**
+- `wiki/index.md` (all table links)
+- `wiki/situations/sudden-low-mood.md` (Layers 2 & 3 tightened)
+- `wiki/situations/breaking-anxiety-cycles.md` (added cross-link to sudden-low-mood)
+- `wiki/situations/managing-negative-thought-patterns.md` (added cross-link to sudden-low-mood)
+- `README.md` (book count 9 → 18, updated categorized library)
+- Pages touched: 5
