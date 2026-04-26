@@ -81,6 +81,8 @@ When asked to health-check:
 - Identify concepts mentioned but lacking their own page.
 - Suggest missing cross-references.
 - Suggest gaps the user could fill by reading specific books.
+- **Update `wiki/index.md`** — verify page count, fix stale descriptions, add missing rows, remove deleted rows.
+- **Update `README.md`** — sync the "Current Library" book count, category list, and total page count with the actual wiki state.
 
 ---
 

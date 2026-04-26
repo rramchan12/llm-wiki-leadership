@@ -35,23 +35,37 @@ raw/books/<slug>/notes.md   →   LLM reads, synthesizes   →   wiki/ pages cre
 | `wiki/log.md` | Chronological record of all ingests and updates. |
 | `AGENTS.md` | Agent schema, templates, and operating instructions. |
 
-## Current Library (18 books)
+## Current Library (38 books)
 
 **CBT / Mood / Mental Health** — Feeling Good (Burns), The Happiness Trap (Harris), Unwinding Anxiety (Brewer)
 
 **Flow & Peak Performance** — The Art of Impossible (Kotler), Gnar Country (Kotler), Rise of Superman (Kotler), Finding Flow (Csikszentmihalyi)
 
-**Decision-Making & Change** — Decisive (Heath & Heath), Switch (Heath & Heath), Made to Stick (Heath & Heath), The Power of Moments (Heath & Heath)
+**Decision-Making & Change** — Decisive (Heath & Heath), Switch (Heath & Heath), Made to Stick (Heath & Heath), The Power of Moments (Heath & Heath), Making Numbers Count (Heath & Starr)
 
 **Leadership Transitions** — The First 90 Days (Watkins)
 
 **Conflict, Relationships & Mindset** — Leadership and Self-Deception (Arbinger), The Anatomy of Peace (Arbinger), The Outward Mindset (Arbinger)
 
-**Communication & Feedback** — Crucial Conversations (Patterson et al.), Radical Candor (Scott)
+**Communication & Feedback** — Crucial Conversations (Patterson et al.), Radical Candor (Scott), Humble Inquiry (Schein)
 
-**Stoic Leadership** — The Stoic Leader (Sellars & Stead)
+**Stoic Leadership** — The Stoic Leader (Sellars & Stead), Meditations (Marcus Aurelius), Letters from a Stoic (Seneca)
 
-→ See [wiki/index.md](wiki/index.md) for the full page catalog (74 pages across books, concepts, people, situations, and synthesis).
+**Management & Teams** — The One Minute Manager (Blanchard), One Minute Mentoring (Blanchard), Peopleware (DeMarco & Lister), The Goal (Goldratt), Eat That Frog! (Tracy)
+
+**Executive Development** — What Got You Here Won't Get You There (Goldsmith), The Seven Habits of Highly Effective People (Covey)
+
+**Organizational Systems** — Working Backwards (Bryar & Carr), Extreme Ownership (Willink & Babin), Principles (Dalio)
+
+**Biology & Behavior** — Behave (Sapolsky)
+
+**Focus & Productivity** — Deep Work (Newport)
+
+**Risk & Uncertainty** — Antifragile (Taleb)
+
+**Meaning & the Good Life** — Man's Search for Meaning (Frankl), Die With Zero (Perkins), The Almanack of Naval Ravikant (Jorgenson)
+
+→ See [wiki/index.md](wiki/index.md) for the full page catalog (111 pages across books, concepts, people, situations, and synthesis).
 
 ## Playwright MCP Integration
 
