@@ -2,9 +2,9 @@
 title: "Chip Heath"
 category: person
 tags: [decision-making, behavioral-economics, psychology, organizational-behavior, communication]
-sources: [heath-decisive, heath-switch, heath-made-to-stick, heath-power-of-moments]
+sources: [heath-decisive, heath-switch, heath-made-to-stick, heath-power-of-moments, heath-making-numbers-count]
 created: 2026-04-20
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # Chip Heath
@@ -36,6 +36,7 @@ Chip Heath (with his brother Dan) built one of the most practically accessible b
 | [[heath-switch]] | Change management, Rider-Elephant-Path framework |
 | [[heath-made-to-stick]] | Sticky communication, SUCCESs framework, Curse of Knowledge |
 | [[heath-power-of-moments]] | Defining moments: Elevation, Insight, Pride, Connection |
+| [[heath-making-numbers-count]] | Numeracy translation, concrete comparisons, the One-Person Rule |
 
 ---
 
