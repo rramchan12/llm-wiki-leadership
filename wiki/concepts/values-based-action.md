@@ -2,7 +2,7 @@
 title: "Values-Based Action"
 category: concept
 tags: [values, purpose, meaning, self-leadership, act, motivation]
-sources: [harris-happiness-trap, kotler-art-of-impossible, kotler-gnar-country, heath-decisive, arbinger-anatomy-of-peace, stoic-leader, scott-radical-candor, covey-seven-habits]
+sources: [harris-happiness-trap, kotler-art-of-impossible, kotler-gnar-country, heath-decisive, arbinger-anatomy-of-peace, stoic-leader, scott-radical-candor, frankl-mans-search-for-meaning, aurelius-meditations, seneca-letters-from-a-stoic, jorgenson-naval-almanack, perkins-die-with-zero]
 created: 2026-04-20
 updated: 2026-04-26
 ---
@@ -36,10 +36,14 @@ Without values clarity, decisions default to emotional avoidance: we do what fee
 | [[arbinger-anatomy-of-peace]] | Supports | A "heart at peace" emerges when you see and act toward others in accordance with your deepest sense of what's right. |
 | [[stoic-leader]] | Reinforces | Values become durable when translated into daily character standards; act on what is controllable and aligned with virtue. |
 | [[scott-radical-candor]] | Applies | Challenging directly — giving honest feedback despite discomfort — is a values-based act. Ducking the hard conversation (Ruinous Empathy) is values avoidance. |
-| [[covey-seven-habits]] | Deepest layer | Covey's character ethic is values-based action at the identity level. The Personal Mission Statement (Habit 2) is effectively a values charter — all behavior flows from it. Unlike ACT (which clarifies values) or Kotler (which extends values to purpose/MTP), Covey argues that values create the very character from which a person acts. |
+| [[frankl-mans-search-for-meaning]] | Deepens | Logotherapy: meaning — the deepest form of values alignment — is what makes action sustainable through suffering. The three paths to meaning (creative, experiential, attitudinal) are all forms of values-based action. |
+| [[aurelius-meditations]] | Primary source | Meditations is a daily values-audit in practice: "What does this situation require?" is Marcus's standing question. Virtue as operating principle rather than destination. |
+| [[seneca-letters-from-a-stoic]] | Models | "Bring life into agreement with your philosophy" — not professing values but structuring time and attention around them. |
+| [[jorgenson-naval-almanack]] | Extends | Specific knowledge is found by following genuine curiosity — the clearest signal of your actual values. Naval: "If you can't decide, the answer is no" — decisions made from authentic values are easier to make. |
+| [[perkins-die-with-zero]] | Provokes | Die With Zero requires radical values clarity: what experiences constitute a good life? Without answering that, you can't know what to stop deferring. |
 
 ## Connections
 
-- Related: [[psychological-flexibility]], [[intrinsic-motivation]], [[goal-setting]], [[dichotomy-of-control]], [[stoic-virtues]], [[maturity-continuum]]
+- Related: [[psychological-flexibility]], [[intrinsic-motivation]], [[goal-setting]], [[dichotomy-of-control]], [[stoic-virtues]]
 - Related: [[ruthless-prioritization]] — values are the filter for what gets your limited time
-- Applied in: [[managing-negative-thought-patterns]], [[pursuing-impossible-goals]], [[feeling-like-an-underachiever]], [[building-effective-habits-and-systems]], [[overcoming-procrastination]]
+- Applied in: [[managing-negative-thought-patterns]], [[pursuing-impossible-goals]], [[feeling-like-an-underachiever]]
