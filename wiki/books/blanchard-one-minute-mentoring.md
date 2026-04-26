@@ -63,7 +63,7 @@ Blanchard argues experienced leaders should always maintain both relationships s
 
 ## Connections
 
-- Supports: [[mentoring-partnership]]
+- Supports: [[mentoring-partnership]], [[coaching-models]] (MENTOR acronym as coaching framework)
 - Builds on: [[blanchard-one-minute-manager]] (same practical, structured-but-humane management philosophy)
 - Aligns with: [[radical-candor]] (honest challenge + genuine care across the mentor/protégé boundary), [[psychological-safety]]
 - See also: [[situations/delegating-and-developing-direct-reports]], [[situations/leading-high-performing-teams]], [[values-based-action]]

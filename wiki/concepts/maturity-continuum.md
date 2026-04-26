@@ -65,5 +65,5 @@ Habit 7 (Sharpen the Saw) sustains forward movement at all stages.
 
 ## Connections
 
-- Related: [[values-based-action]] (interdependence requires acting from values, not just self-interest), [[outward-mindset]], [[emotional-bank-account]], [[circle-of-influence]]
+- Related: [[values-based-action]] (interdependence requires acting from values, not just self-interest), [[outward-mindset]], [[emotional-bank-account]], [[dichotomy-of-control]]
 - Applied in: [[situations/leading-high-performing-teams]], [[situations/delegating-and-developing-direct-reports]], [[situations/building-effective-habits-and-systems]]

@@ -75,7 +75,7 @@ When we succeed, we naturally attribute success to our own behavior. This causal
 
 ## Connections
 
-- Supports: [[behavioral-blind-spots]], [[feedforward]]
+- Supports: [[behavioral-blind-spots]], [[feedforward]], [[coaching-models]] (feedforward as coaching method), [[empathic-listening]] ("not listening" as blind spot #13)
 - Refines: [[radical-candor]] (feedforward is a complement to feedback; acknowledgment = caring personally)
 - Challenges: [[self-deception]] (Arbinger frames the problem at identity level; Goldsmith at behavior level — different levels, complementary solutions)
 - See also: [[situations/managing-behavioral-blind-spots]], [[habit-loops]], [[values-based-action]]

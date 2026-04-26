@@ -91,4 +91,4 @@ Safety is rebuilt from one interaction at a time. It cannot be declared or manda
 ## Connections
 
 - Related situations: [[situations/navigating-interpersonal-conflict]], [[situations/leading-high-performing-teams]]
-- Core concepts: [[humble-inquiry]], [[psychological-safety]], [[team-jell]], [[emotional-bank-account]]
+- Core concepts: [[humble-inquiry]], [[psychological-safety]], [[team-jell]], [[emotional-bank-account]], [[empathic-listening]]

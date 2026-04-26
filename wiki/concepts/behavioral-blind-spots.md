@@ -75,5 +75,5 @@ The mechanism behind blind spots: when we succeed, we attribute success to our o
 
 ## Connections
 
-- Related: [[feedforward]], [[self-deception]], [[habit-loops]], [[radical-candor]]
+- Related: [[feedforward]], [[self-deception]], [[habit-loops]], [[radical-candor]], [[empathic-listening]] ("not listening" is blind spot #13)
 - Applied in: [[situations/managing-behavioral-blind-spots]]

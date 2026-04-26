@@ -80,7 +80,7 @@ Blanchard updated the model to replace "One Minute Reprimands" with **One Minute
 
 ## Connections
 
-- Supports: [[one-minute-management]]
+- Supports: [[one-minute-management]], [[coaching-models]] (Goals + Praisings + Re-Directs as coaching system), [[coachee-readiness]] (Situational Leadership model)
 - Aligns with: [[radical-candor]] (caring personally + challenging directly; praisings and reprimands operationalized as specific, immediate behaviors)
 - Supports: [[goal-setting]] (clarity as the foundation of self-managed performance)
 - See also: [[situations/delegating-and-developing-direct-reports]], [[situations/leading-high-performing-teams]], [[blanchard-one-minute-mentoring]]

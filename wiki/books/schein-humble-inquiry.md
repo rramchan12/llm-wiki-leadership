@@ -101,7 +101,7 @@ Humble Inquiry requires consciously working against deeply internalized cultural
 
 ## Connections
 
-- Supports: [[humble-inquiry]] (concept), [[psychological-safety]]
+- Supports: [[humble-inquiry]] (concept), [[psychological-safety]], [[empathic-listening]] (quality of asking determines quality of listening)
 - Aligns with: [[radical-candor]] (Schein's relationship-building is the prerequisite for candor), [[outward-mindset]] (seeing the person's reality requires asking about it)
-- Extends: [[crucial-conversations-framework]] (the AMPP listening tools are forms of humble inquiry), [[self-deception]] (pure inquiry is incompatible with seeing others as obstacles)
+- Extends: [[crucial-conversations-framework]] (the AMPP listening tools are forms of humble inquiry), [[self-deception]] (pure inquiry is incompatible with seeing others as obstacles), [[coaching-models]] (humble inquiry as foundational coaching stance)
 - See also: [[situations/creating-psychological-safety-through-questions]], [[situations/navigating-interpersonal-conflict]], [[goldratt-the-goal]] (Jonah uses Socratic inquiry throughout)

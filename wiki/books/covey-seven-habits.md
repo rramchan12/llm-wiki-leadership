@@ -106,7 +106,7 @@ Proactive people focus their energy in their Circle of Influence — what they c
 
 ## Connections
 
-- Supports: [[maturity-continuum]], [[time-management-matrix]], [[emotional-bank-account]], [[circle-of-influence]]
+- Supports: [[maturity-continuum]], [[time-management-matrix]], [[emotional-bank-account]], [[dichotomy-of-control]], [[empathic-listening]] (Habit 5), [[coachee-readiness]] (stewardship delegation)
 - Extends: [[values-based-action]] (character ethic is identity-level values; mission statement operationalizes it), [[goal-setting]] (Habit 2 and Quadrant II), [[resilience]] (Habit 7: Sharpen the Saw)
 - Aligns with: [[outward-mindset]] (interdependence mirrors seeing others as people vs. objects), [[radical-candor]] (Habit 5 enables genuine care), [[psychological-flexibility]] (Habit 1: proactivity = ACT's present-moment response-ability)
 - Challenges: [[self-deception]] (Covey and Arbinger agree on the barrier; Covey focuses on habit formation, Arbinger on paradigm shift)

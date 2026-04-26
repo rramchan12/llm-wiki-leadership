@@ -91,5 +91,5 @@ One Minute Management operates most naturally in the Coaching and Supporting qua
 
 ## Connections
 
-- Related: [[radical-candor]] (both operationalize care + directness), [[goal-setting]] (goals are the foundation), [[behavioral-blind-spots]] (leaders who can't give praisings or reprimands have a blind spot)
+- Related: [[radical-candor]] (both operationalize care + directness), [[goal-setting]] (goals are the foundation), [[behavioral-blind-spots]] (leaders who can't give praisings or reprimands have a blind spot), [[coaching-models]] (Goals + Praisings + Re-Directs as a coaching system), [[coachee-readiness]] (Situational Leadership matches style to development level)
 - Applied in: [[situations/delegating-and-developing-direct-reports]], [[situations/leading-high-performing-teams]]

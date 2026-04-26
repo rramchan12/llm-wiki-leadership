@@ -5,6 +5,25 @@
 
 ---
 
+## [2026-04-26] update | Add 3 missing coaching/listening concept pages
+
+- **Created:** wiki/concepts/empathic-listening.md — Covey Habit 5, AMPP, Arbinger Pyramid, Goldsmith blind spot #13; multi-source synthesis
+- **Created:** wiki/concepts/coaching-models.md — Blanchard, Goldsmith, Schein, Scott, GROW reconstruction; coaching anti-patterns
+- **Created:** wiki/concepts/coachee-readiness.md — Situational Leadership D1–D4, Covey stewardship delegation, Rockstars/Superstars
+- **Updated cross-references in:** 6 book pages (covey-seven-habits, blanchard-one-minute-manager, blanchard-one-minute-mentoring, goldsmith-what-got-you-here, schein-humble-inquiry, crucial-conversations), 6 concept pages (one-minute-management, humble-inquiry, mentoring-partnership, behavioral-blind-spots, feedforward, radical-candor), 2 situation pages (delegating-and-developing-direct-reports, creating-psychological-safety-through-questions)
+- **Updated:** wiki/index.md — 3 rows added, page count 108→111
+- Pages touched: 17
+
+## [2026-04-26] update | Merge 3 overlapping concept pairs
+
+- **Merged:** `circle-of-influence` → `dichotomy-of-control` (Covey's Circle of Influence added as operationalization section)
+- **Merged:** `throughput-thinking` → `theory-of-constraints` (T/I/OE measures, local-vs-global table, activation-vs-utilization added as sections)
+- **Merged:** `stacked-practices` → `incremental-progression` (stacked practices table and example added as section)
+- **Deleted:** concepts/circle-of-influence.md, concepts/throughput-thinking.md, concepts/stacked-practices.md
+- **Updated inbound links:** 16 references across 12 files (books, concepts, people, situations)
+- **Updated index.md:** removed 3 rows, updated 3 descriptions, page count 111→108
+- Pages touched: 16
+
 ## [2026-04-26] lint | Full wiki health check
 
 - **Pages audited:** 111 (38 books, 69 concepts, 28 situations, 3 synthesis, 34 people)

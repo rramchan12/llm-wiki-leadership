@@ -30,7 +30,7 @@ Stephen Richards Covey (1932–2012) was an American educator, author, businessm
 - **Maturity continuum:** Dependence → Independence → Interdependence (see [[maturity-continuum]])
 - **Time management matrix:** Q2 (important, not urgent) is where effectiveness lives (see [[time-management-matrix]])
 - **Emotional bank account:** Trust is a resource that must be invested in before it can be drawn on (see [[emotional-bank-account]])
-- **Circle of Influence:** Focus on what you can affect (see [[circle-of-influence]])
+- **Circle of Influence:** Focus on what you can affect (see [[dichotomy-of-control]])
 
 ## Intellectual Context
 
@@ -40,5 +40,5 @@ His work bridges self-help (personal habits, character development) and organiza
 
 ## Connections
 
-- Related: [[covey-seven-habits]], [[maturity-continuum]], [[time-management-matrix]], [[emotional-bank-account]], [[circle-of-influence]]
+- Related: [[covey-seven-habits]], [[maturity-continuum]], [[time-management-matrix]], [[emotional-bank-account]], [[dichotomy-of-control]]
 - Adjacent: [[harris-happiness-trap]] (ACT's proactivity parallels Habit 1), [[arbinger-institute]] (character ethic parallels outward mindset)

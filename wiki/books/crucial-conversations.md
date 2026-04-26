@@ -67,6 +67,6 @@ Counter: "What am I pretending not to know about my role? About theirs? About wh
 
 ## Connections
 
-- **Supports:** [[crucial-conversations-framework]] (the complete dialogue toolkit), [[psychological-flexibility]] ("Master My Stories" parallels cognitive defusion)
+- **Supports:** [[crucial-conversations-framework]] (the complete dialogue toolkit), [[psychological-flexibility]] ("Master My Stories" parallels cognitive defusion), [[empathic-listening]] (AMPP as empathic listening under pressure)
 - **Complements:** [[scott-radical-candor]] (philosophy + mechanics pair), [[navigating-interpersonal-conflict]] (the hardest case for these tools)
 - **See also:** [[kerry-patterson]], [[self-deception]], [[outward-mindset]], [[cognitive-distortions]], [[facing-a-major-decision]]

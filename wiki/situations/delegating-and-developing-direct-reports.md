@@ -103,4 +103,4 @@ Covey adds the interdependence layer: the goal of development is to produce capa
 ## Connections
 
 - Related situations: [[situations/leading-high-performing-teams]], [[situations/creating-psychological-safety-through-questions]], [[situations/starting-a-new-leadership-role]]
-- Core concepts: [[one-minute-management]], [[mentoring-partnership]], [[radical-candor]], [[maturity-continuum]]
+- Core concepts: [[one-minute-management]], [[mentoring-partnership]], [[radical-candor]], [[maturity-continuum]], [[coaching-models]], [[coachee-readiness]], [[empathic-listening]]

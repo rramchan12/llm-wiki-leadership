@@ -74,5 +74,5 @@ Occupying the "one down" position (admitting you need someone's knowledge) feels
 
 ## Connections
 
-- Related: [[psychological-safety]] (humble inquiry creates it), [[crucial-conversations-framework]], [[outward-mindset]], [[radical-candor]] (inquiry is the prerequisite for caring candor)
+- Related: [[psychological-safety]] (humble inquiry creates it), [[crucial-conversations-framework]], [[outward-mindset]], [[radical-candor]] (inquiry is the prerequisite for caring candor), [[empathic-listening]] (asking enables listening), [[coaching-models]] (humble inquiry as foundational coaching stance)
 - Applied in: [[situations/creating-psychological-safety-through-questions]], [[situations/navigating-interpersonal-conflict]], [[situations/delegating-and-developing-direct-reports]]

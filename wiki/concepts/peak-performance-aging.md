@@ -31,4 +31,4 @@ Most people treat aging as managed decline. Peak-performance aging rejects this 
 ## Connections
 
 - Related: [[flow-states]], [[resilience]], [[gnar-country-mindset]], [[developmental-gateways]]
-- Applied in: [[stacked-practices]], [[incremental-progression]]
+- Applied in: [[incremental-progression]], [[pursuing-impossible-goals]]

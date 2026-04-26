@@ -65,7 +65,7 @@ Start at the bottom. Don't set the goal first — build the fuel first.
 
 1. "One inch at a time." Each day, pursue one microscopic improvement. See [[incremental-progression]].
 2. Track progress in a journal — invisible gains become visible.
-3. Stack practices: make every activity serve double duty. See [[stacked-practices]].
+3. Stack practices: make every activity serve double duty. See [[incremental-progression]].
 4. Set [[tripwires]] for periodic reassessment — impossible goals still need reality checks.
 
 ---

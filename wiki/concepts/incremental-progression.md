@@ -1,7 +1,7 @@
 ---
 title: "Incremental Progression"
 category: concept
-tags: [skill-acquisition, learning, fear, practice, self-leadership]
+tags: [skill-acquisition, learning, fear, practice, self-leadership, training, efficiency, habits, daily-routines]
 sources: [kotler-gnar-country, taleb-antifragile]
 created: 2026-04-20
 updated: 2026-04-26
@@ -30,7 +30,20 @@ Ambitious goals are terrifying when viewed whole. Incremental progression breaks
 - **Fear management:** Incremental steps keep the learner in flow, not panic
 - **Performance journals:** Track micro-progress to make invisible gains visible
 
+## Stacked Practices
+
+Time is the scarcest resource, especially when pursuing ambitious goals alongside work and family. **Stacked practices** eliminate the "I don't have time" objection by embedding training into what you already do — every activity serves double or triple duty.
+
+| Principle | Description |
+|-----------|-------------|
+| **Multi-tool solutions** | Every activity should solve 2+ problems (physical, cognitive, emotional) |
+| **No new time blocks** | Overlay training on existing habits (commute, dog walks, chores) |
+| **Get comfortable with uncomfortable** | Progressive discomfort embedded in daily life builds resilience naturally |
+| **Compound effect** | Small stacks done daily outperform intensive sporadic sessions |
+
+**Example (Kotler):** Wearing a weight vest while hiking dogs → trains backcountry skiing muscles without changing schedule. Meditation → trains focus AND lowers stress. Every activity serves double duty.
+
 ## Connections
 
-- Related: [[flow-states]], [[fear-management]], [[goal-setting]]
-- Applied in: [[peak-performance-aging]], [[stacked-practices]]
+- Related: [[flow-states]], [[fear-management]], [[goal-setting]], [[ruthless-prioritization]], [[peak-performance-aging]], [[resilience]]
+- Applied in: [[pursuing-impossible-goals]], [[building-effective-habits-and-systems]]

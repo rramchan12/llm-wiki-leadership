@@ -22,7 +22,7 @@ Later life is "Gnar Country" — territory with real risk and real opportunity. 
 3. **[[gnar-country-mindset]]** — Reframing aging as high-risk/high-opportunity terrain that demands grit, not resignation.
 4. **[[incremental-progression]]** — "One inch at a time." Microscopic skill improvements keep fear manageable and build compounding gains.
 5. **[[goal-setting]]** — Locke & Latham research: properly set goals boost motivation ~25%. Goals filter reality.
-6. **[[stacked-practices]]** — Multi-tool training integrated into daily routines. Weight vest while hiking dogs; meditation for focus + stress.
+6. **Stacked Practices** — Multi-tool training integrated into daily routines. Weight vest while hiking dogs; meditation for focus + stress. (See [[incremental-progression]].)
 7. **[[community-and-group-flow]]** — Training partners, tribe, punk rock ethos of belonging. Group flow accelerates learning.
 8. **[[fear-management]]** — Both physical skills and mental fortitude needed. Build on familiar motor patterns. Incremental exposure.
 9. **[[developmental-gateways]]** — Identity resolution (30), intrinsic alignment (40), emotional clearing (50), counteracting risk aversion (ongoing).
@@ -55,5 +55,5 @@ Later life is "Gnar Country" — territory with real risk and real opportunity. 
 
 ## Connections
 
-- Supports: [[peak-performance-aging]], [[flow-states]], [[goal-setting]], [[community-and-group-flow]], [[incremental-progression]], [[stacked-practices]], [[gnar-country-mindset]], [[intrinsic-motivation]], [[fear-management]], [[resilience]], [[ruthless-prioritization]], [[developmental-gateways]], [[fast-geometry]]
+- Supports: [[peak-performance-aging]], [[flow-states]], [[goal-setting]], [[community-and-group-flow]], [[incremental-progression]], [[gnar-country-mindset]], [[intrinsic-motivation]], [[fear-management]], [[resilience]], [[ruthless-prioritization]], [[developmental-gateways]], [[fast-geometry]]
 - See also: [[steven-kotler]], [[kotler-art-of-impossible]], [[pursuing-impossible-goals]]

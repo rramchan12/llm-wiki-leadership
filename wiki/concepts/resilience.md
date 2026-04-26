@@ -42,5 +42,5 @@ Every ambitious pursuit involves injury, failure, and setback. Resilience is wha
 
 ## Connections
 
-- Related: [[incremental-progression]], [[stacked-practices]], [[community-and-group-flow]], [[gnar-country-mindset]], [[fear-management]], [[values-based-action]], [[logotherapy]], [[tragic-optimism]], [[amor-fati]], [[dichotomy-of-control]]
+- Related: [[incremental-progression]], [[community-and-group-flow]], [[gnar-country-mindset]], [[fear-management]], [[values-based-action]], [[logotherapy]], [[tragic-optimism]], [[amor-fati]], [[dichotomy-of-control]]
 - Applied in: [[pursuing-impossible-goals]], [[breaking-anxiety-cycles]], [[building-effective-habits-and-systems]], [[finding-meaning-in-adversity]], [[stoic-daily-practice-under-pressure]]

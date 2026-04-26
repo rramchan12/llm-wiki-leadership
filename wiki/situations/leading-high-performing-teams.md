@@ -42,7 +42,7 @@ Three layers of work:
 4. **Build Circle of Influence clarity**
    - The team needs to understand what it controls, what it can influence, and what it must accept
    - Focusing team energy on the Circle of Influence (not Concern) prevents burnout and builds agency
-   - See [[circle-of-influence]]
+   - See [[dichotomy-of-control]]
 
 ### Layer 2: Cultivate Team Chemistry (Jell)
 

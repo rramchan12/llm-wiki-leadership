@@ -38,5 +38,5 @@ Most managers default to Ruinous Empathy: they care about their people but avoid
 
 ## Connections
 
-- Related: [[outward-mindset]] (prerequisite for genuine care), [[self-deception]] (barrier to candor), [[sticky-communication]] (how to make feedback land), [[values-based-action]] (challenging directly when uncomfortable), [[humble-inquiry]] (builds the relationship that makes candor safe), [[feedforward]] (future-focused complement), [[one-minute-management]] (daily practice)
+- Related: [[outward-mindset]] (prerequisite for genuine care), [[self-deception]] (barrier to candor), [[sticky-communication]] (how to make feedback land), [[values-based-action]] (challenging directly when uncomfortable), [[humble-inquiry]] (builds the relationship that makes candor safe), [[feedforward]] (future-focused complement), [[one-minute-management]] (daily practice), [[coaching-models]] (Care + Challenge as coaching calibration)
 - Applied in: [[navigating-interpersonal-conflict]], [[starting-a-new-leadership-role]], [[delegating-and-developing-direct-reports]], [[managing-behavioral-blind-spots]]

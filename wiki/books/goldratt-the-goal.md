@@ -94,7 +94,7 @@ This mirrors [[schein-humble-inquiry]]'s model of knowledge transfer through dia
 
 ## Connections
 
-- Supports: [[theory-of-constraints]], [[throughput-thinking]]
+- Supports: [[theory-of-constraints]]
 - Aligns with: [[rider-elephant-path]] (change happens at the system level, not just local effort)
 - Challenges: conventional efficiency metrics that focus on local optimization
 - See also: [[situations/managing-bottlenecks-and-constraints]], [[goal-setting]], [[ruthless-prioritization]]

@@ -65,5 +65,5 @@ Reverse mentoring normalizes the two-way flow and reduces the hierarchical tensi
 
 ## Connections
 
-- Related: [[one-minute-management]], [[psychological-safety]], [[humble-inquiry]], [[radical-candor]]
+- Related: [[one-minute-management]], [[psychological-safety]], [[humble-inquiry]], [[radical-candor]], [[coaching-models]] (mentoring as a coaching framework), [[coachee-readiness]] (protégé readiness determines mentoring approach)
 - Applied in: [[situations/delegating-and-developing-direct-reports]], [[situations/leading-high-performing-teams]]

@@ -59,5 +59,5 @@ Feedforward eliminates these costs entirely by orienting to what can actually be
 
 ## Connections
 
-- Related: [[behavioral-blind-spots]] (feedforward is the tool for correcting them), [[radical-candor]], [[humble-inquiry]]
+- Related: [[behavioral-blind-spots]] (feedforward is the tool for correcting them), [[radical-candor]], [[humble-inquiry]], [[coaching-models]] (feedforward as a coaching method)
 - Applied in: [[situations/managing-behavioral-blind-spots]]

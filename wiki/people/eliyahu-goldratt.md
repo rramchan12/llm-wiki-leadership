@@ -29,7 +29,7 @@ His turning point came when he realized the software was only as useful as the t
 
 - **The Goal is the Goal:** Every system must know explicitly what it is optimizing for
 - **Theory of Constraints:** Identify, exploit, subordinate, elevate, repeat (see [[theory-of-constraints]])
-- **Throughput, Inventory, Operating Expense:** The three measures that reveal systemic performance (see [[throughput-thinking]])
+- **Throughput, Inventory, Operating Expense:** The three measures that reveal systemic performance (see [[theory-of-constraints]])
 - **Socratic method:** Goldratt believed genuine understanding requires discovery; he never told, he asked
 
 ## Intellectual Legacy
@@ -40,5 +40,5 @@ His insistence on using novels as teaching vehicles was deliberately subversive:
 
 ## Connections
 
-- Related: [[goldratt-the-goal]], [[theory-of-constraints]], [[throughput-thinking]]
+- Related: [[goldratt-the-goal]], [[theory-of-constraints]]
 - Adjacent: [[tracy-eat-that-frog]] (ABCDE and KRAs are personal TOC), [[schein-humble-inquiry]] (Socratic teaching method parallel)

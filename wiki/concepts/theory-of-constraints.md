@@ -45,13 +45,36 @@ In any sequential system (where step B cannot start until step A finishes), rand
 ## Throughput, Inventory, and Operating Expense
 
 Goldratt defines three measures for any system:
-- **Throughput (T):** Money generated through sales — what comes in
-- **Inventory (I):** Money tied up in things intended to sell — what's stuck in the system
-- **Operating Expense (OE):** Money spent converting inventory to throughput — what goes out
+- **Throughput (T):** Rate at which the system generates money (or results) through sales/delivery — maximize
+- **Inventory (I):** Money tied up in work-in-progress or unsold goods — minimize
+- **Operating Expense (OE):** All money spent converting inventory to throughput — minimize
 
-The goal: **Increase T while simultaneously decreasing I and OE.**
+The goal expressed: **Increase T while simultaneously decreasing I and OE.**
 
-Traditional cost accounting optimizes I and OE locally, ignoring T — leading to decisions that look financially prudent but harm systemic performance. (See also [[throughput-thinking]].)
+Traditional cost accounting inverts this priority: reduce OE (costs) first, then manage I, and treat T as an outcome that follows. Goldratt argues this creates systematic misalignment — every locally rational cost-cutting decision can reduce T.
+
+### Local Efficiency vs. Global Throughput
+
+| Local Efficiency Lens | Throughput Lens |
+|----------------------|-----------------|
+| Run every machine at 100% utilization | Run non-constraints only as fast as the constraint needs |
+| Reduce cost at every step | Remove the constraint; accept cost elsewhere |
+| Measure workers by hours active | Measure by system output rate |
+| Build inventory as buffer everywhere | Buffer only before the constraint |
+| Cut headcount in non-critical areas | Ask: what is the effect on throughput? |
+
+A subtle but critical distinction from *The Goal*: **activating** a resource means running it; **utilizing** a resource means having it contribute to system throughput. You can activate a machine all day and utilize it zero — if its output cannot pass the constraint, it sits as inventory. The locally efficient action is systemically destructive.
+
+### Throughput Thinking Applied Beyond Manufacturing
+
+| Domain | Throughput Metric | Common Local Trap |
+|--------|------------------|-------------------|
+| Software teams | Working software delivered | Lines of code written / tests passed |
+| Sales | Revenue closed | Calls made / pipeline volume |
+| Leadership | Decisions executed and outcomes achieved | Meetings attended / plans produced |
+| Personal productivity | High-value tasks completed | Hours worked / emails answered |
+
+Tracy's "eat the frog" insight (the A task, not the busy low-importance work) is throughput thinking applied to personal performance: protect the output that actually matters, not the activity that looks productive.
 
 ## Beyond Manufacturing
 
@@ -67,12 +90,12 @@ Tracy's personal KRA model (see [[procrastination-framework]]) is TOC for the in
 
 | Book | Stance | Key Insight |
 |------|--------|-------------|
-| [[goldratt-the-goal]] | Defines | The full five-step model through the lens of Alex Rogo's factory |
-| [[tracy-eat-that-frog]] | Individual application | The "key constraint" technique (Eat That Frog chapter): identify the single most important skill that, if improved, would most improve your performance |
-| [[demarco-peopleware]] | Implicit | The bottleneck in knowledge-work teams is often deep focused time (see [[flow-states]]); everything else should subordinate to protecting it |
-| [[covey-seven-habits]] | Parallel | Q2 (important but not urgent) is the "system constraint" for most leaders — starved of investment while non-constraints (urgent tasks) run at full capacity |
+| [[goldratt-the-goal]] | Defines | The full five-step model through the lens of Alex Rogo's factory; Throughput, Inventory, and Operating Expense as the three measures |
+| [[tracy-eat-that-frog]] | Individual application | The "key constraint" technique: identify the single most important skill that, if improved, would most improve your performance. The A task is personal throughput; busyness with C/D tasks is local activation with zero utilization. |
+| [[demarco-peopleware]] | Team level | The bottleneck in knowledge-work teams is often deep focused time (see [[flow-states]]); individual effort metrics ("billable hours") are local efficiency measures that miss team throughput entirely |
+| [[covey-seven-habits]] | Structural parallel | Q2 (important but not urgent) is the "system constraint" for most leaders — starved of investment while non-constraints (urgent tasks) run at full capacity. Q1/Q3 work is high-activation, low-throughput; Q2 work is low-activation, high-throughput. |
 
 ## Connections
 
-- Related: [[throughput-thinking]], [[ruthless-prioritization]] (stop optimizing non-constraints), [[goal-setting]] (knowing the goal clarifies the relevant constraint)
-- Applied in: [[situations/managing-bottlenecks-and-constraints]]
+- Related: [[ruthless-prioritization]] (stop optimizing non-constraints), [[goal-setting]] (knowing the goal clarifies the relevant constraint), [[time-management-matrix]], [[procrastination-framework]]
+- Applied in: [[managing-bottlenecks-and-constraints]]

@@ -38,5 +38,5 @@ Peak performers don't just work hard — they ruthlessly cut everything that isn
 
 ## Connections
 
-- Related: [[goal-setting]], [[values-based-action]], [[stacked-practices]], [[gnar-country-mindset]], [[intrinsic-motivation]], [[time-management-matrix]], [[procrastination-framework]]
+- Related: [[goal-setting]], [[values-based-action]], [[incremental-progression]], [[gnar-country-mindset]], [[intrinsic-motivation]], [[time-management-matrix]], [[procrastination-framework]]
 - Applied in: [[pursuing-impossible-goals]], [[feeling-like-an-underachiever]], [[overcoming-procrastination]], [[building-effective-habits-and-systems]]

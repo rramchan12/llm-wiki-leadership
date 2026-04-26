@@ -56,7 +56,7 @@
 | [Community & Group Flow](concepts/community-and-group-flow.md) | Training partners and tribe accelerate learning and sustain motivation. | kotler-gnar-country, kotler-art-of-impossible | 2026-04-20 |
 | [Cognitive Defusion](concepts/cognitive-defusion.md) | Unhooking from thoughts without changing their content. | harris-happiness-trap, brewer-unwinding-anxiety | 2026-04-20 |
 | [Cognitive Distortions](concepts/cognitive-distortions.md) | 10 systematic thinking errors; cross-book concept (CBT, ACT, habit-loops). | burns-feeling-good, harris-happiness-trap, brewer-unwinding-anxiety, heath-decisive | 2026-04-20 |
-| [Dichotomy of Control](concepts/dichotomy-of-control.md) | Separate what leaders can choose from what they can only influence or accept. | stoic-leader | 2026-04-25 |
+| [Dichotomy of Control](concepts/dichotomy-of-control.md) | Stoic mental model separating controllable from uncontrollable; includes Covey's Circle of Influence as operationalization. | stoic-leader, covey-seven-habits | 2026-04-26 |
 | [Developmental Gateways](concepts/developmental-gateways.md) | Kotler skill thresholds that unlock new performance levels. | kotler-gnar-country | 2026-04-22 |
 | [Early Wins](concepts/early-wins.md) | Visible, meaningful results that build credibility in the first 30–60 days. | watkins-first-90-days, kotler-art-of-impossible | 2026-04-20 |
 | [Fast Geometry](concepts/fast-geometry.md) | Expert pattern-recognition enabling flow in complex environments. | kotler-gnar-country | 2026-04-22 |
@@ -66,7 +66,7 @@
 | [Gnar Country Mindset](concepts/gnar-country-mindset.md) | Reframing aging as high-risk/high-opportunity terrain requiring grit, not resignation. | kotler-gnar-country | 2026-04-20 |
 | [Goal Setting](concepts/goal-setting.md) | Goals filter reality; Locke & Latham + High Hard Goals + values alignment. | kotler-gnar-country, kotler-art-of-impossible, watkins-first-90-days | 2026-04-20 |
 | [Habit Loops](concepts/habit-loops.md) | Trigger → behavior → reward; the brain's fundamental learning mechanism. | brewer-unwinding-anxiety, harris-happiness-trap, kotler-art-of-impossible | 2026-04-20 |
-| [Incremental Progression](concepts/incremental-progression.md) | "One inch at a time." Microscopic skill improvements with compounding gains. | kotler-gnar-country | 2026-04-20 |
+| [Incremental Progression](concepts/incremental-progression.md) | "One inch at a time." Microscopic skill improvements with compounding gains; includes stacked practices for time-efficient training. | kotler-gnar-country | 2026-04-26 |
 | [Intrinsic Motivation](concepts/intrinsic-motivation.md) | Curiosity → passion → purpose → autonomy → mastery motivation stack. | kotler-art-of-impossible, kotler-gnar-country | 2026-04-20 |
 | [Outward Mindset](concepts/outward-mindset.md) | Seeing others as people with real needs, not as objects. | arbinger-self-deception, arbinger-anatomy-of-peace | 2026-04-20 |
 | [Peak Performance & Aging](concepts/peak-performance-aging.md) | Sustaining capability, drive, and adventure in later life. | kotler-gnar-country | 2026-04-20 |
@@ -76,7 +76,6 @@
 | [Resilience](concepts/resilience.md) | Trainable capacity to absorb setbacks and continue pursuing long-term goals. | kotler-gnar-country, kotler-art-of-impossible | 2026-04-22 |
 | [Ruthless Prioritization](concepts/ruthless-prioritization.md) | Systematic elimination of lower-value commitments to protect peak-performance time. | kotler-gnar-country, kotler-art-of-impossible | 2026-04-22 |
 | [Self-Deception](concepts/self-deception.md) | Blindness to your own contribution to problems ("the box"). | arbinger-self-deception, arbinger-anatomy-of-peace | 2026-04-20 |
-| [Stacked Practices](concepts/stacked-practices.md) | Multi-tool training integrated into daily routines. | kotler-gnar-country | 2026-04-20 |
 | [Stoic Virtues](concepts/stoic-virtues.md) | Justice, courage, moderation, and wisdom as practical leadership decision checks. | stoic-leader | 2026-04-25 |
 | [Transition Acceleration](concepts/transition-acceleration.md) | Treating leadership transitions as a learnable discipline. | watkins-first-90-days | 2026-04-20 |
 | [Tripwires](concepts/tripwires.md) | Pre-set conditions that trigger a mandatory decision review. | heath-decisive | 2026-04-20 |
@@ -103,14 +102,15 @@
 | [Maturity Continuum](concepts/maturity-continuum.md) | Covey's three-stage progression: Dependence → Independence → Interdependence. | covey-seven-habits | 2026-04-26 |
 | [Time Management Matrix](concepts/time-management-matrix.md) | Covey's Q1-Q4 grid: Urgent/Important quadrants; Q2 (important, not urgent) as the leadership leverage zone. | covey-seven-habits, tracy-eat-that-frog | 2026-04-26 |
 | [Emotional Bank Account](concepts/emotional-bank-account.md) | Covey's trust metaphor: six deposits/withdrawals that build or erode relationship capital. | covey-seven-habits | 2026-04-26 |
-| [Circle of Influence](concepts/circle-of-influence.md) | Proactive focus on what you can change vs. reactive focus on the Circle of Concern. | covey-seven-habits | 2026-04-26 |
 | [One Minute Management](concepts/one-minute-management.md) | Three secrets: One Minute Goals, Praisings, and Reprimands/Redirects — situational leadership in action. | blanchard-one-minute-manager | 2026-04-26 |
 | [Mentoring Partnership](concepts/mentoring-partnership.md) | Five-phase structured mentoring with mutual accountability and reciprocal learning. | blanchard-one-minute-mentoring | 2026-04-26 |
 | [Team Jell](concepts/team-jell.md) | DeMarco's concept of teams that become a cohesive unit with higher productivity and lower turnover. | demarco-peopleware | 2026-04-26 |
-| [Theory of Constraints](concepts/theory-of-constraints.md) | Goldratt's five focusing steps: identify/exploit/subordinate/elevate the system's binding constraint. | goldratt-the-goal | 2026-04-26 |
-| [Throughput Thinking](concepts/throughput-thinking.md) | Measuring success by global Throughput (money earned) not local efficiency; T/I/OE framework. | goldratt-the-goal | 2026-04-26 |
+| [Theory of Constraints](concepts/theory-of-constraints.md) | Goldratt's five focusing steps + throughput thinking (T/I/OE): identify/exploit/subordinate/elevate the system's binding constraint. | goldratt-the-goal | 2026-04-26 |
 | [Humble Inquiry](concepts/humble-inquiry.md) | Art of asking questions the asker doesn't already know the answer to; prerequisite for trust and candor. | schein-humble-inquiry | 2026-04-26 |
 | [Psychological Safety](concepts/psychological-safety.md) | Team climate where interpersonal risk feels safe; prerequisite for learning, candor, and innovation. | schein-humble-inquiry, demarco-peopleware | 2026-04-26 |
+| [Empathic Listening](concepts/empathic-listening.md) | Listening to understand the other person's frame of reference — Covey's Habit 5, AMPP, Arbinger's Pyramid, Goldsmith's blind spot #13. | covey-seven-habits, schein-humble-inquiry, crucial-conversations, arbinger-anatomy-of-peace, goldsmith-what-got-you-here | 2026-04-26 |
+| [Coaching Models](concepts/coaching-models.md) | Structured frameworks for developing others through questions and accountability — Blanchard, Goldsmith, Schein, Scott, GROW reconstruction. | blanchard-one-minute-manager, blanchard-one-minute-mentoring, goldsmith-what-got-you-here, scott-radical-candor, schein-humble-inquiry, covey-seven-habits | 2026-04-26 |
+| [Coachee Readiness](concepts/coachee-readiness.md) | Blanchard's Situational Leadership: match coaching/leadership style to the person's development level (D1–D4) for the specific task. | blanchard-one-minute-manager, blanchard-one-minute-mentoring, covey-seven-habits, scott-radical-candor | 2026-04-26 |
 | [Procrastination Framework](concepts/procrastination-framework.md) | Tracy's ABCDE method + KRAs + single-handling + 21 techniques for eliminating procrastination. | tracy-eat-that-frog | 2026-04-26 |
 | [Logotherapy / Will to Meaning](concepts/logotherapy.md) | Frankl's framework: meaning (not pleasure or power) is the primary human drive; three paths available even in extremity. | frankl-mans-search-for-meaning | 2026-04-26 |
 | [Tragic Optimism](concepts/tragic-optimism.md) | Saying yes to life despite pain, guilt, and transience — earned affirmation through the tragic triad. | frankl-mans-search-for-meaning | 2026-04-26 |

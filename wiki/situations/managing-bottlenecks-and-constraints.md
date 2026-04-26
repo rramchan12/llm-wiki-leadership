@@ -81,11 +81,11 @@ Tracy's ABCDE and Key Result Areas (see [[procrastination-framework]]) are perso
 |--------|-----------|
 | [[goldratt-the-goal]] | The complete TOC model; five focusing steps; statistical fluctuations + dependent events |
 | [[theory-of-constraints]] | Framework reference |
-| [[throughput-thinking]] | Why local efficiency metrics mislead |
+| [[theory-of-constraints]] | Why local efficiency metrics mislead (throughput thinking) |
 | [[procrastination-framework]] | Personal application — KRAs as individual constraint management |
 | [[covey-seven-habits]] | Q2 (important/not urgent) is the neglected personal constraint that determines long-term effectiveness |
 
 ## Connections
 
 - Related situations: [[situations/building-effective-habits-and-systems]], [[situations/overcoming-procrastination]]
-- Core concepts: [[theory-of-constraints]], [[throughput-thinking]], [[ruthless-prioritization]]
+- Core concepts: [[theory-of-constraints]], [[ruthless-prioritization]]
