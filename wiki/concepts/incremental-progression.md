@@ -2,9 +2,9 @@
 title: "Incremental Progression"
 category: concept
 tags: [skill-acquisition, learning, fear, practice, self-leadership]
-sources: [kotler-gnar-country]
+sources: [kotler-gnar-country, taleb-antifragile]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-26
 ---
 
 # Incremental Progression
@@ -20,6 +20,7 @@ Ambitious goals are terrifying when viewed whole. Incremental progression breaks
 | Book | Stance | Key Insight |
 |------|--------|-------------|
 | [[kotler-gnar-country]] | Core method | Kotler builds park skiing on the "sliding spin foundation" — extending a familiar motor pattern by one inch. Each session's goal is a micro-improvement, not a breakthrough. This keeps fear at bay and allows sustainable progress. |
+| [[taleb-antifragile]] | Theoretical grounding | Antifragility is built through deliberate exposure to small stressors (progressive overload). Taleb's "barbell" applies here: protect against catastrophic downside while accepting small, repeated stressors that build capacity. Incremental progression is the behavioral implementation of antifragility in skill development. |
 
 ## Key Principles
 

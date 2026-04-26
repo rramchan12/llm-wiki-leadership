@@ -2,7 +2,7 @@
 title: "Goal Setting"
 category: concept
 tags: [goals, motivation, focus, self-leadership, psychology]
-sources: [kotler-gnar-country, kotler-art-of-impossible, watkins-first-90-days, covey-seven-habits, tracy-eat-that-frog]
+sources: [kotler-gnar-country, kotler-art-of-impossible, watkins-first-90-days, covey-seven-habits, tracy-eat-that-frog, bryar-working-backwards, willink-extreme-ownership, newport-deep-work, dalio-principles, perkins-die-with-zero]
 created: 2026-04-20
 updated: 2026-04-26
 ---
@@ -25,6 +25,11 @@ Goals and fears are the brain's primary filters on reality. Without clear goals,
 | [[harris-happiness-trap]] | Reframes | ACT distinguishes values (directions) from goals (destinations). Goals serve values, not the reverse. See [[values-based-action]]. |
 | [[covey-seven-habits]] | Deepens | Habit 2 (Begin with the End in Mind) insists goals must emerge from a Personal Mission Statement — from your deepest values and long-term vision. "Start with a mental creation before the physical." The goal is the end state; the mission is the why. |
 | [[tracy-eat-that-frog]] | Operationalizes | ABCDE method and KRAs translate goals into a daily task-ranking system. Key Result Areas — the 5–7 outputs your role demands — are the operational goals that determine effectiveness. Written goals with deadlines are Tracy's non-negotiable; unwritten goals are wishes. |
+| [[bryar-working-backwards]] | Customer-first | The PR-FAQ method inverts goal-setting: the customer outcome is written first (as a press release), and every project goal must serve that outcome. Prevents solution-first thinking from masquerading as goal-setting. |
+| [[willink-extreme-ownership]] | Commander's Intent | Teams need goals that are understood at every level, not just transmitted. Commander's Intent — the two-level why — allows subordinates to pursue the goal even when conditions change. |
+| [[newport-deep-work]] | Lead measures | Rule 4 of Deep Work applies the 4DX framework: pair a clear lag goal (the outcome) with lead measures (depth hours per week) and a visible scoreboard. Makes progress on abstract intellectual goals concrete and trackable. |
+| [[dalio-principles]] | 5-Step Process | Goal-setting is Step 1 of Dalio's 5-Step Process. Without a goal, diagnosing problems and designing solutions is directionless. Goals must be explicit and written before the machine runs. |
+| [[perkins-die-with-zero]] | Life-stage allocation | Time buckets force goal-setting across life stages: which experiences must happen in which decades, before energy or health prevents them? Life goals need temporal specificity, not just intention. |
 
 ## Key Principles
 

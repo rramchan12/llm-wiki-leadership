@@ -2,9 +2,9 @@
 title: "Fear Management"
 category: concept
 tags: [leadership, performance, fear, flow, gnar-country]
-sources: [kotler-gnar-country, kotler-art-of-impossible]
+sources: [kotler-gnar-country, kotler-art-of-impossible, sapolsky-behave]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-04-26
 ---
 
 # Fear Management
@@ -21,6 +21,7 @@ Fear is not the enemy of high performance — unmanaged fear is. When fear trigg
 |------|--------|-------------|
 | [[kotler-gnar-country]] | Core framework | Fear is a signal that you are near the edge of your skill set. The "10% rule" — never increase difficulty by more than 10% at a time — keeps fear productive rather than paralyzing. Fear-management is a prerequisite for accessing flow states at high challenge levels. |
 | [[kotler-art-of-impossible]] | Extends | Fear is one of the primary obstacles to sustaining peak performance. The motivation stack (curiosity → passion → purpose) provides intrinsic fuel that can carry performers through fear rather than around it. |
+| [[sapolsky-behave]] | Biological mechanism | Fear is a limbic trigger: the amygdala fires before the prefrontal cortex can evaluate whether the threat is real. Cortisol and the stress response amplify the signal and suppress rational override. Understanding this biology explains why "just be rational" fails under fear, and why progressive exposure (not willpower) is the correct intervention. |
 
 ## Key Principles
 

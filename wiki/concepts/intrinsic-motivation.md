@@ -2,7 +2,7 @@
 title: "Intrinsic Motivation"
 category: concept
 tags: [motivation, purpose, curiosity, passion, autonomy, mastery, self-leadership, peak-performance]
-sources: [kotler-art-of-impossible, kotler-gnar-country, kotler-rise-of-superman, csikszentmihalyi-finding-flow, harris-happiness-trap, brewer-unwinding-anxiety, covey-seven-habits]
+sources: [kotler-art-of-impossible, kotler-gnar-country, kotler-rise-of-superman, csikszentmihalyi-finding-flow, harris-happiness-trap, brewer-unwinding-anxiety, covey-seven-habits, jorgenson-naval-almanack]
 created: 2026-04-20
 updated: 2026-04-26
 ---
@@ -40,6 +40,7 @@ At the top: **Massively Transformative Purpose (MTP)** — a mission statement s
 | [[harris-happiness-trap]] | Supports | ACT's [[values-based-action]] is the therapeutically grounded version of intrinsic motivation: act from what matters, not from what avoids pain. |
 | [[brewer-unwinding-anxiety]] | Supports | Curiosity is both the foundation of intrinsic motivation (Kotler) and the "bigger better offer" that replaces anxiety (Brewer). Same mechanism, different application. |
 | [[covey-seven-habits]] | Structural | Covey's maturity continuum (see [[maturity-continuum]]) frames the highest motivation as interdependence — contribution to something beyond yourself. The Personal Mission Statement (Habit 2) is a formalized intrinsic motivation architecture: beginning with your deepest values and contribution goals, then working outward. Covey argues that character-based purpose is more durable than either personality or extrinsic motivation. |
+| [[jorgenson-naval-almanack]] | Foundational directive | "Follow your specific knowledge" begins with following genuine curiosity — the clearest intrinsic signal available. Naval's wealth model is built entirely on intrinsic motivation: specific knowledge only emerges when you do what you'd do for free. Extrinsically motivated people can't develop it because they optimize for the role rather than the fascination. |
 
 ## Connections
 

@@ -2,7 +2,7 @@
 title: "Values-Based Action"
 category: concept
 tags: [values, purpose, meaning, self-leadership, act, motivation]
-sources: [harris-happiness-trap, kotler-art-of-impossible, kotler-gnar-country, heath-decisive, arbinger-anatomy-of-peace, stoic-leader, scott-radical-candor, frankl-mans-search-for-meaning, aurelius-meditations, seneca-letters-from-a-stoic, jorgenson-naval-almanack, perkins-die-with-zero]
+sources: [harris-happiness-trap, kotler-art-of-impossible, kotler-gnar-country, heath-decisive, arbinger-anatomy-of-peace, stoic-leader, scott-radical-candor, covey-seven-habits, sapolsky-behave, willink-extreme-ownership, dalio-principles, frankl-mans-search-for-meaning, aurelius-meditations, seneca-letters-from-a-stoic, jorgenson-naval-almanack, perkins-die-with-zero]
 created: 2026-04-20
 updated: 2026-04-26
 ---
@@ -36,6 +36,10 @@ Without values clarity, decisions default to emotional avoidance: we do what fee
 | [[arbinger-anatomy-of-peace]] | Supports | A "heart at peace" emerges when you see and act toward others in accordance with your deepest sense of what's right. |
 | [[stoic-leader]] | Reinforces | Values become durable when translated into daily character standards; act on what is controllable and aligned with virtue. |
 | [[scott-radical-candor]] | Applies | Challenging directly — giving honest feedback despite discomfort — is a values-based act. Ducking the hard conversation (Ruinous Empathy) is values avoidance. |
+| [[covey-seven-habits]] | Identity layer | The character ethic: values are the bedrock of character, not personality. The Personal Mission Statement operationalizes values into a daily decision filter. Without this identity-level grounding, values remain abstract. |
+| [[sapolsky-behave]] | Biological challenge | Values-based action requires active prefrontal override of limbic defaults. Stress, fatigue, and tribal context all reduce PFC capacity — meaning values-based action is hardest precisely when stakes are highest. |
+| [[willink-extreme-ownership]] | Applied | Extreme Ownership is a values-based posture: you hold yourself accountable only if you actually believe accountability matters. The leader who blames external factors has failed at values-based action first. |
+| [[dalio-principles]] | Codified | Dalio's Principles are values-based operating rules made explicit and enforced by mechanism: writing down your values as decision algorithms closes the gap between espoused and enacted values. |
 | [[frankl-mans-search-for-meaning]] | Deepens | Logotherapy: meaning — the deepest form of values alignment — is what makes action sustainable through suffering. The three paths to meaning (creative, experiential, attitudinal) are all forms of values-based action. |
 | [[aurelius-meditations]] | Primary source | Meditations is a daily values-audit in practice: "What does this situation require?" is Marcus's standing question. Virtue as operating principle rather than destination. |
 | [[seneca-letters-from-a-stoic]] | Models | "Bring life into agreement with your philosophy" — not professing values but structuring time and attention around them. |

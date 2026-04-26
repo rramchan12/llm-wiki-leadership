@@ -2,7 +2,7 @@
 title: "Ruthless Prioritization"
 category: concept
 tags: [leadership, performance, prioritization, focus]
-sources: [kotler-gnar-country, kotler-art-of-impossible, covey-seven-habits, tracy-eat-that-frog]
+sources: [kotler-gnar-country, kotler-art-of-impossible, covey-seven-habits, tracy-eat-that-frog, bryar-working-backwards, newport-deep-work, dalio-principles]
 created: 2026-04-22
 updated: 2026-04-26
 ---
@@ -23,6 +23,9 @@ Peak performers don't just work hard — they ruthlessly cut everything that isn
 | [[kotler-art-of-impossible]] | Framework | The Massively Transformative Purpose (MTP) functions as the filter for what gets kept. If a commitment doesn't serve the MTP, it gets cut. This creates the protected space for the deep work that produces flow and mastery. |
 | [[covey-seven-habits]] | Structural layer | The Time Management Matrix (see [[time-management-matrix]]) provides the architectural rationale: ruthless prioritization means protecting Q2 (important/not urgent) from Q1 crises and Q3 interrupts — by deliberately scheduling Q2 first. |
 | [[tracy-eat-that-frog]] | Daily practice | ABCDE method operationalizes prioritization at the task level: A tasks are sacred; never do a B while an A exists. Creative procrastination — deliberately delaying low-value commitments — is the tactical form of ruthless prioritization. |
+| [[bryar-working-backwards]] | Org design | The two-pizza team rule applies ruthless prioritization to organizational structure: teams small enough to be fed by two pizzas cannot pursue too many goals simultaneously. Scope creep is an organizational prioritization failure. |
+| [[newport-deep-work]] | Attention | "Quit social media" and "Drain the shallows" are ruthless prioritization applied to attention bandwidth. Newport's argument: if a tool doesn't substantially support your most important goals, the cost of using it exceeds the benefit. |
+| [[dalio-principles]] | Machine model | Dalio's machine model demands ruthless replacement of people or processes that aren't working — not incremental tolerance. "You can have almost anything you want, but you can't have everything." Prioritization is the core of design. |
 
 ## Key Principles
 

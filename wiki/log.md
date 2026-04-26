@@ -622,3 +622,40 @@ Tracker (1):
 
 - Pages touched: 39 created + 2 updated = 41
 - Status: complete (index + log finalized; concept extensions deferred to next session)
+
+## [2026-04-26] update | Post-merge reconciliation — Batches 2–4
+
+### Summary
+Applied all pending concept page extensions from the three batch staging files after merging branches eature/batch2-leadership-os, eature/batch3-strategy-judgment, and eature/batch4-philosophy.
+
+### Concept Pages Extended (10 files)
+
+- wiki/concepts/values-based-action.md — Added: covey-seven-habits (character ethic / mission statement), sapolsky-behave (prefrontal override requirement), willink-extreme-ownership (ownership as values posture), dalio-principles (codified principles as values operating rules)
+- wiki/concepts/goal-setting.md — Added: bryar-working-backwards (PR-FAQ / customer-outcome-first), willink-extreme-ownership (Commander's Intent), newport-deep-work (4DX / lead measures), dalio-principles (5-Step Process), perkins-die-with-zero (time buckets / life-stage allocation)
+- wiki/concepts/ruthless-prioritization.md — Added: bryar-working-backwards (two-pizza team rule), newport-deep-work (drain the shallows / quit social media), dalio-principles (machine model)
+- wiki/concepts/flow-states.md — Added: newport-deep-work (deep work as the labor practice that creates flow conditions; attention residue as anti-flow mechanism)
+- wiki/concepts/sticky-communication.md — Added: heath-making-numbers-count (numeracy translation as the hardest application of Concrete + Emotional)
+- wiki/concepts/premortem.md — Added: bryar-working-backwards (PR-FAQ review surfaces failure modes), taleb-antifragile (via negativa / negative visualization), dalio-principles (error log / radical transparency institutionalizes the premortem reflex)
+- wiki/concepts/fear-management.md — Added: sapolsky-behave (amygdala fires before PFC; biological mechanism of fear hijacking judgment)
+- wiki/concepts/incremental-progression.md — Added: taleb-antifragile (deliberate small stressors as antifragility-building; barbell strategy)
+- wiki/concepts/resilience.md — Added: sapolsky-behave (chronic stress damages PFC), willink-extreme-ownership (deliberate adversity as SEAL resilience-building mechanism)
+- wiki/concepts/intrinsic-motivation.md — Added: jorgenson-naval-almanack (specific knowledge requires following genuine curiosity; extrinsic optimization prevents its development)
+
+### Duplicates Resolved
+No true duplicates found. Each batch contributed distinct books to each concept page; no additive conflict required resolution.
+
+### Lint Pass Results
+- All 38 book pages: ≥ 3 outbound [[links]] ✅
+- All 3 synthesis pages: ≥ 2 outbound [[links]] ✅
+- All people pages: 34 files, 34 index entries ✅
+- Index coverage: 38 books + 69 concepts + 34 people + 28 situations + 3 synthesis = 172 pages ✅
+- No orphan pages detected ✅
+- Synthesis section confirmed in wiki/index.md ✅
+
+### Staging Files Deleted
+- wiki/books/_batch2-pending-updates.md
+- wiki/books/_batch3-pending-updates.md
+- wiki/books/_batch4-pending-updates.md
+
+- Pages touched: 10 concept pages updated
+- Status: complete

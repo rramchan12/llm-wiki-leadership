@@ -2,7 +2,7 @@
 title: "Flow States"
 category: concept
 tags: [flow, peak-performance, psychology, self-leadership, focus]
-sources: [kotler-gnar-country, kotler-art-of-impossible, kotler-rise-of-superman, csikszentmihalyi-finding-flow, demarco-peopleware]
+sources: [kotler-gnar-country, kotler-art-of-impossible, kotler-rise-of-superman, csikszentmihalyi-finding-flow, demarco-peopleware, newport-deep-work]
 created: 2026-04-20
 updated: 2026-04-26
 ---
@@ -26,6 +26,7 @@ Flow is the mechanism behind peak performance. It's not mystical — it's a trai
 | [[brewer-unwinding-anxiety]] | Implicit | Curiosity — a core flow trigger — is also the "bigger better offer" that replaces anxiety. Flow and anxiety are incompatible states. |
 | [[harris-happiness-trap]] | Implicit | ACT's present-moment awareness and willingness are prerequisites for flow. Fusion and avoidance block flow. |
 | [[demarco-peopleware]] | Organizational | Knowledge workers require uninterrupted concentration to enter flow. Average time to reach flow: 15–20 minutes. A single interruption resets the clock. The E-factor (ratio of uninterrupted hours to total "body present" hours) is the key organizational productivity variable. Open offices and constant interruptions systematically destroy it. |
+| [[newport-deep-work]] | Labor practice | Deep work is the deliberate practice of creating the conditions for sustained flow in knowledge work. Newport's scheduling philosophies (monastic, bimodal, rhythmic, journalistic) are flow-trigger strategies. Attention residue — the cognitive trace left by switching tasks — is the primary anti-flow mechanism in modern work. |
 
 ## Key Principles
 

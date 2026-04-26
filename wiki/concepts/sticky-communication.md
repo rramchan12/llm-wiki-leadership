@@ -2,9 +2,9 @@
 title: "Sticky Communication (SUCCESs)"
 category: concept
 tags: [communication, persuasion, leadership, storytelling, messaging]
-sources: [heath-made-to-stick]
+sources: [heath-made-to-stick, heath-switch, heath-decisive, heath-making-numbers-count]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # Sticky Communication (SUCCESs)
@@ -31,6 +31,7 @@ Leaders constantly need ideas to land and persist: strategy communication, feedb
 | [[heath-made-to-stick]] | Defines | The complete SUCCESs framework. Curse of Knowledge as root cause of communication failure. |
 | [[heath-switch]] | Applies | "Find the feeling" = Emotional. "Script the critical moves" = Simple + Concrete. "Point to the destination" = a sticky destination postcard. |
 | [[heath-decisive]] | Complements | WRAP helps leaders decide well; SUCCESs helps them communicate decisions so they land. |
+| [[heath-making-numbers-count]] | Deep extension | Numeracy translation is the application of Concrete + Emotional at the highest difficulty level: making abstract numerical data visceral, human-scale, and emotionally resonant. Without this skill, data-heavy communications fail even when all other SUCCESs principles are met. |
 
 ## Connections
 

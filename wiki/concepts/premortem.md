@@ -2,9 +2,9 @@
 title: "Premortem"
 category: concept
 tags: [decision-making, risk-management, planning, mental-models, leadership, judgment]
-sources: [heath-decisive, stoic-leader]
+sources: [heath-decisive, stoic-leader, bryar-working-backwards, taleb-antifragile, dalio-principles]
 created: 2026-04-20
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # Premortem
@@ -59,6 +59,9 @@ Research by Klein shows that premortems increase the ability to identify reasons
 |------|--------|-------------|
 | [[heath-decisive]] | Prescribes | The premortem is the primary tool for the P (Prepare to be wrong) step of WRAP |
 | [[stoic-leader]] | Parallels | Stoic premeditation of adversity builds emotional readiness and decision clarity before setbacks arrive. |
+| [[bryar-working-backwards]] | Process | Amazon's PR-FAQ review — rigorous written scrutiny before any investment is committed — surfaces failure modes structurally. The six-page narrative format forces specificity that exposes weak assumptions before resources are deployed. |
+| [[taleb-antifragile]] | Via negativa | Taleb's negative visualization and via negativa (removing what is harmful rather than adding what is beneficial) are structural complements to the premortem: identifying and cutting the sources of fragility before they manifest as catastrophic loss. |
+| [[dalio-principles]] | Institutionalized | Dalio's error log and radical transparency institutionalize the premortem reflex at an organizational level: every failure is analyzed in writing, causes are diagnosed against principles, and the principles are updated. The premortem becomes an ongoing cultural practice, not a one-off exercise. |
 
 ---
 
