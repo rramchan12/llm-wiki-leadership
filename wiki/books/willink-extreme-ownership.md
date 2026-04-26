@@ -125,6 +125,6 @@ This structure makes abstract principles visceral and concrete. The reader feels
 
 - Supports: [[extreme-ownership]], [[decentralized-command]], [[leadership-principles-as-operating-system]]
 - Supports: [[values-based-action]] — owning outcomes requires a values-based commitment that precedes external conditions
-- See also: [[situation-operating-with-extreme-ownership]], [[situation-building-culture-of-ownership]]
+- See also: [[operating-with-extreme-ownership]], [[building-culture-of-ownership]]
 - In dialogue with: [[bryar-working-backwards]] (ownership as organizational mechanism), [[dalio-principles]] (ownership through radical transparency)
 - Related people: [[jocko-willink]], [[leif-babin]]

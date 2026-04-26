@@ -86,4 +86,4 @@ When a leader fails to model it — blaming subordinates, market conditions, or 
 - Related: [[leadership-principles-as-operating-system]] — Extreme Ownership is the foundational principle of the SEAL OS
 - Related: [[values-based-action]] — ownership requires the values-based commitment to hold yourself accountable when it's uncomfortable
 - Related: [[dichotomy-of-control]] — Stoic version of the same core insight; you own your response, always
-- Applied in: [[situation-operating-with-extreme-ownership]], [[building-culture-of-ownership]], [[starting-a-new-leadership-role]]
+- Applied in: [[operating-with-extreme-ownership]], [[building-culture-of-ownership]], [[starting-a-new-leadership-role]]

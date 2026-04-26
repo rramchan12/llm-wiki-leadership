@@ -92,4 +92,4 @@ When applied in business: replace "why are we doing this operation" with "what i
 - Related: [[leadership-principles-as-operating-system]] — Decentralized Command requires the principles OS to be clear at every level
 - Related: [[working-backwards-pr-faq]] — the PR communicates commander's intent in customer-outcome language
 - Related: [[goal-setting]] — commander's intent is expressed as mission-level goals
-- Applied in: [[building-culture-of-ownership]], [[situation-operating-with-extreme-ownership]], [[starting-a-new-leadership-role]]
+- Applied in: [[building-culture-of-ownership]], [[operating-with-extreme-ownership]], [[starting-a-new-leadership-role]]

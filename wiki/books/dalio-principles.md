@@ -161,6 +161,6 @@ Work Principles excerpts relevant to leadership:
 - Supports: [[radical-transparency-and-algorithms]], [[leadership-principles-as-operating-system]]
 - Supports: [[values-based-action]] — Dalio's principles are explicit codifications of values-in-action
 - Challenges: pure hierarchy, seniority-based deference, "culture as vibes" management
-- See also: [[explicit-principles-as-leadership-os]] (synthesis page), [[situation-making-decisions-at-scale]]
+- See also: [[explicit-principles-as-leadership-os]] (synthesis page), [[making-decisions-at-scale]]
 - In dialogue with: [[bryar-working-backwards]] (mechanisms vs. principles; parallel implementations), [[willink-extreme-ownership]] (accountability and ownership)
 - Related people: [[ray-dalio]]

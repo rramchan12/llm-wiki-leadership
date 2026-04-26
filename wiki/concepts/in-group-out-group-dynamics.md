@@ -94,4 +94,4 @@ Sapolsky's data supports structured integration over voluntary mixing: equal-sta
 - Related: [[outward-mindset]] — "seeing others as people" is the practical antidote to in-group/out-group dehumanization
 - Related: [[self-deception]] — "in the box" is the psychological description of out-group processing applied within relationships
 - Related: [[crucial-conversations-framework]] — high-stakes dialogue often involves crossing in-group/out-group activation
-- Applied in: [[situation-biological-roots-of-conflict]], [[navigating-interpersonal-conflict]]
+- Applied in: [[biological-roots-of-conflict]], [[navigating-interpersonal-conflict]]

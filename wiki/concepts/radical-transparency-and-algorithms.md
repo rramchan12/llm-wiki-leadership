@@ -115,4 +115,4 @@ Over time, this produces an explicit organizational learning corpus — an opera
 - Related: [[extreme-ownership]] — radical transparency makes ownership structural: failures cannot be hidden
 - Related: [[premortem]] — Dalio's error log and post-mortem practice is the systematic version of the premortem reflex
 - Related: [[values-based-action]] — Dalio's principles are codified values translated into specific decision rules
-- Applied in: [[situation-making-decisions-at-scale]], [[building-culture-of-ownership]]
+- Applied in: [[making-decisions-at-scale]], [[building-culture-of-ownership]]

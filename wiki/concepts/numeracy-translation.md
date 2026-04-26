@@ -81,4 +81,4 @@ Numeracy translation is the deep extension of the **Concrete** and **Emotional**
 - Related: [[sticky-communication]] — numeracy translation is the numerical deep-dive within Concrete + Emotional
 - Related: [[rider-elephant-path]] — translated numbers move the Elephant; raw statistics move only the Rider (and often fail even at that)
 - Related: [[crucial-conversations-framework]] — data that lands emotionally is more likely to enter the Pool of Shared Meaning
-- Applied in: [[situation-communicating-data-to-non-technical-audiences]]
+- Applied in: [[communicating-data-to-non-technical-audiences]]

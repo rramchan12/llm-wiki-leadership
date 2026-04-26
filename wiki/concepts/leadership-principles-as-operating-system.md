@@ -90,5 +90,5 @@ The critical insight from Bryar/Carr: **most organizations already have principl
 - Related: [[decentralized-command]] — the structural mechanism that extends principles down the org
 - Related: [[radical-transparency-and-algorithms]] — Dalio's implementation
 - Related: [[values-based-action]] — individual-level analog of organizational leadership principles
-- Applied in: [[situation-building-culture-of-ownership]], [[starting-a-new-leadership-role]]
+- Applied in: [[building-culture-of-ownership]], [[starting-a-new-leadership-role]]
 - See also: [[explicit-principles-as-leadership-os]] (synthesis page)

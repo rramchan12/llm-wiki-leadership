@@ -141,5 +141,5 @@ The goal is not zero stress but *calibrated* stress — the right dose in the ri
 - Extends: [[resilience]] — resilience is the midpoint of the triad; antifragility is the apex. Taleb is largely dismissive of pure resilience as a goal.
 - Challenges: optimization frameworks that assume stable/predictable environments; challenges "efficiency" as a primary organizational goal
 - Supports: [[premortem]] — via negativa applied to planning (identify what to remove/avoid); see also Taleb's "negative visualization" parallel
-- See also: [[situation-designing-antifragile-systems]], [[dalio-principles]]
+- See also: [[designing-antifragile-systems]], [[dalio-principles]]
 - Related people: [[nassim-taleb]]

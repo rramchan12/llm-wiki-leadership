@@ -126,5 +126,5 @@ Rule 4: Drain the Shallows (schedule every minute; fixed-schedule productivity; 
 - Supports: [[ruthless-prioritization]] — deep work requires draining the shallows with the same rigor Kotler brings to peak performance
 - Supports: [[goal-setting]] — 4DX framework, lead measure tracking
 - Challenges: "busyness as productivity" cultures; challenges the default open-office and always-on communication norms
-- See also: [[situation-working-deeply-in-distracted-environment]], [[pursuing-impossible-goals]]
+- See also: [[working-deeply-in-distracted-environment]], [[pursuing-impossible-goals]]
 - Related people: [[cal-newport]]

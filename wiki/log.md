@@ -5,6 +5,27 @@
 
 ---
 
+## [2026-04-26] lint | Full wiki health check
+
+- **Pages audited:** 111 (38 books, 69 concepts, 28 situations, 3 synthesis, 34 people)
+- **Frontmatter compliance:** 111/111 (100%)
+- **Connections sections present:** 111/111 (100%)
+- **Broken links found & fixed:** 20
+  - 1× `[[trust-and-candor]]` → removed (nonexistent page; `[[radical-candor]]` already present) in concepts/emotional-bank-account.md
+  - 19× `[[situation-<slug>]]` prefix → `[[<slug>]]` across 18 files (concepts + books). Situation page filenames don't carry "situation-" prefix.
+- **Orphan pages:** 0
+- **Contradictions:** 0 detected
+- **Duplicate index rows:** 0
+- **[VERIFY] flags:** 15 across 3 book pages (heath-making-numbers-count, perkins-die-with-zero, seneca-letters-from-a-stoic) — author-placed cautions, not errors
+- **Overlap candidates noted (no action taken — user may choose to merge):**
+  - dichotomy-of-control ↔ circle-of-influence (Stoic concept vs. Covey implementation)
+  - theory-of-constraints ↔ throughput-thinking (framework vs. its measurement system)
+  - incremental-progression ↔ stacked-practices (how to progress vs. how to fit training in)
+- **Quality notes:**
+  - stoic-leader.md and kotler-gnar-country.md are thinner than average book pages (~300–350 lines vs. 600–1000)
+  - heath-making-numbers-count.md has 4 [VERIFY] placeholders; lower confidence on specific examples
+- Files touched: 19
+
 ## [2026-04-25] query | You suddenly feel low
 
 - Query: "Coach me on when I suddenly feel low"

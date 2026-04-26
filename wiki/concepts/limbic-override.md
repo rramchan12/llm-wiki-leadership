@@ -101,4 +101,4 @@ This is the biological mechanism behind burnout's cognitive effects and why team
 - Related: [[resilience]] — resilience training increases the threshold before override occurs
 - Related: [[outward-mindset]] — seeing others as people requires PFC engagement; limbic override collapses people into objects/threats
 - Related: [[crucial-conversations-framework]] — high-stakes dialogue protocols are PFC-preservation techniques
-- Applied in: [[situation-biological-roots-of-conflict]], [[navigating-interpersonal-conflict]]
+- Applied in: [[biological-roots-of-conflict]], [[navigating-interpersonal-conflict]]

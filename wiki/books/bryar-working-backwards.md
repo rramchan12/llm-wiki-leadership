@@ -102,5 +102,5 @@ Amazon obsessively tracks input metrics (the actions teams take that *produce* r
 - Supports: [[working-backwards-pr-faq]], [[leadership-principles-as-operating-system]]
 - Supports: [[premortem]] — PR-FAQ FAQ section is a structured failure-mode analysis before investment
 - Challenges: conventional product-led and technology-led innovation (build first, find customers second)
-- See also: [[explicit-principles-as-leadership-os]] (synthesis page), [[situation-building-culture-of-ownership]], [[willink-extreme-ownership]], [[dalio-principles]]
+- See also: [[explicit-principles-as-leadership-os]] (synthesis page), [[building-culture-of-ownership]], [[willink-extreme-ownership]], [[dalio-principles]]
 - Related people: [[colin-bryar]], [[bill-carr]]

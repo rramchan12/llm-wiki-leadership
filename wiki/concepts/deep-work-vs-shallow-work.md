@@ -78,4 +78,4 @@ Tracking hours of deep work per week:
 - Related: [[ruthless-prioritization]] — deep work requires protecting time from shallow; same as Kotler's "ruthless prioritization"
 - Related: [[goal-setting]] — the 4DX framework uses deep work hours as the lead measure toward high-value goals
 - Related: [[incremental-progression]] — skill development requires sustained deep practice; scattered practice is insufficient
-- Applied in: [[situation-working-deeply-in-distracted-environment]], [[pursuing-impossible-goals]]
+- Applied in: [[working-deeply-in-distracted-environment]], [[pursuing-impossible-goals]]

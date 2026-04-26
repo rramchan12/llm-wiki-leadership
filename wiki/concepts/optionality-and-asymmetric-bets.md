@@ -103,4 +103,4 @@ Optionality thinking extends several other frameworks in this wiki:
 - Related: [[premortem]] — identify catastrophic failure modes before committing (remove catastrophic downside)
 - Related: [[wrap-framework]] — "Prepare to be wrong" and tripwires preserve optionality within the decision process
 - Related: [[tripwires]] — pre-set reversal triggers that prevent drift into irreversible commitment
-- Applied in: [[situation-designing-antifragile-systems]], [[facing-a-major-decision]]
+- Applied in: [[designing-antifragile-systems]], [[facing-a-major-decision]]

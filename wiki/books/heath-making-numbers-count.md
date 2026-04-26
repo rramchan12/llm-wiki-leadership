@@ -79,5 +79,5 @@ Open with a counterintuitive number to create a curiosity gap (the Unexpected pr
 
 - Supports: [[sticky-communication]] — numeracy translation is the missing chapter on the Concrete principle of SUCCESs
 - Extends: [[rider-elephant-path]] — translated numbers move the Elephant, not just the Rider
-- See also: [[numeracy-translation]], [[situation-communicating-data-to-non-technical-audiences]]
+- See also: [[numeracy-translation]], [[communicating-data-to-non-technical-audiences]]
 - Related people: [[chip-heath]], [[karla-starr]]

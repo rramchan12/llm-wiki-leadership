@@ -60,5 +60,5 @@ The practical leadership implication: before you can have a crucial conversation
 
 ## Connections
 
-- Related: [[maturity-continuum]] (interdependence requires high-balance accounts), [[trust-and-candor]], [[psychological-safety]], [[radical-candor]]
+- Related: [[maturity-continuum]] (interdependence requires high-balance accounts), [[psychological-safety]], [[radical-candor]]
 - Applied in: [[situations/navigating-interpersonal-conflict]], [[situations/delegating-and-developing-direct-reports]], [[situations/creating-psychological-safety-through-questions]]

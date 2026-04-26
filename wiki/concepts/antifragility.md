@@ -111,4 +111,4 @@ See [[optionality-and-asymmetric-bets]] for the full investment/career applicati
 - Related: [[optionality-and-asymmetric-bets]] — the mechanism for achieving antifragile financial and career positioning
 - Related: [[incremental-progression]] — antifragility is built through calibrated, progressive stress (hormesis)
 - Related: [[premortem]] — via negativa applied to planning: identify sources of fragility before they break
-- Applied in: [[situation-designing-antifragile-systems]], [[pursuing-impossible-goals]]
+- Applied in: [[designing-antifragile-systems]], [[pursuing-impossible-goals]]

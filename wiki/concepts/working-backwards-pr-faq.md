@@ -82,4 +82,4 @@ The method extends beyond product launches:
 - Related: [[premortem]] — the FAQ section surfaces failure modes before investment, similar to a premortem
 - Related: [[sticky-communication]] — a PR that isn't sticky isn't a good PR
 - Related: [[goal-setting]] — the PR's customer benefit is the goal everything else serves
-- Applied in: [[situation-building-culture-of-ownership]], [[communicating-data-to-non-technical-audiences]]
+- Applied in: [[building-culture-of-ownership]], [[communicating-data-to-non-technical-audiences]]

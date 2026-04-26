@@ -112,5 +112,5 @@ Sapolsky's final chapters argue for moral complexity: humans have a remarkable c
 - Supports: [[outward-mindset]] — "seeing others as people" is the PFC override that Arbinger describes intuitively; Sapolsky explains why it requires active effort
 - Supports: [[values-based-action]] — acting on values requires the PFC to override limbic defaults
 - Challenges: pure "character determines behavior" models; challenges simple free-will assumptions in accountability frameworks
-- See also: [[situation-biological-roots-of-conflict]], [[willink-extreme-ownership]], [[resilience]]
+- See also: [[biological-roots-of-conflict]], [[willink-extreme-ownership]], [[resilience]]
 - Related people: [[robert-sapolsky]]
