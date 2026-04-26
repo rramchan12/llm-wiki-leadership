@@ -15,6 +15,68 @@
 
 ---
 
+## [2026-04-26] ingest | Batch 4 — Personal Philosophy & Long-Horizon Lens (5 books)
+
+### Books Ingested
+1. **Man's Search for Meaning — Viktor E. Frankl (1946/1959)** | LLM Confidence: HIGH
+2. **Letters from a Stoic — Seneca (c. 65 AD)** | LLM Confidence: HIGH (specific letter numbers marked [VERIFY])
+3. **Meditations — Marcus Aurelius (c. 161–180 AD)** | LLM Confidence: HIGH
+4. **Die With Zero — Bill Perkins (2020)** | LLM Confidence: MEDIUM (core arguments solid; specific thresholds/rules marked [VERIFY])
+5. **The Almanack of Naval Ravikant — Eric Jorgenson (2020)** | LLM Confidence: HIGH
+
+### Created: Book Pages
+- wiki/books/frankl-mans-search-for-meaning.md
+- wiki/books/seneca-letters-from-a-stoic.md
+- wiki/books/aurelius-meditations.md
+- wiki/books/perkins-die-with-zero.md
+- wiki/books/jorgenson-naval-almanack.md
+- wiki/books/_batch4-pending-updates.md (tracking file)
+
+### Created: Concept Pages (10 new)
+- wiki/concepts/logotherapy.md — Will to meaning as primary drive; three paths; existential vacuum
+- wiki/concepts/tragic-optimism.md — Saying yes despite pain, guilt, transience (Frankl)
+- wiki/concepts/memento-mori.md — Death meditation as prioritization tool (Seneca/Aurelius)
+- wiki/concepts/negative-visualization.md — Premeditatio malorum; pre-experiencing loss (Stoics)  
+- wiki/concepts/amor-fati.md — Loving fate; obstacle becomes the way (Aurelius)
+- wiki/concepts/memory-dividend.md — Experiences compound as memories (Perkins)
+- wiki/concepts/time-buckets.md — Life-stage experience allocation (Perkins)
+- wiki/concepts/specific-knowledge.md — Untrained idiosyncratic knowledge at curiosity/skill intersection (Naval)
+- wiki/concepts/leverage.md — Labor/capital/code/media force multipliers (Naval)
+- wiki/concepts/happiness-as-skill.md — Trainable internal disposition via presence (Naval)
+
+### Extended: Existing Concept Pages (4 updated)
+- wiki/concepts/stoic-virtues.md — Added Seneca, Aurelius, and Frankl rows; sources updated
+- wiki/concepts/dichotomy-of-control.md — Added Seneca, Aurelius, Frankl, Naval rows; added new situation links
+- wiki/concepts/values-based-action.md — Added Frankl, Aurelius, Seneca, Naval, Perkins rows
+- wiki/concepts/resilience.md — Added Frankl, Aurelius, Seneca, Naval rows; added meaning-as-substrate principle
+
+### Created: People Pages (5 new)
+- wiki/people/viktor-frankl.md
+- wiki/people/seneca.md
+- wiki/people/marcus-aurelius.md
+- wiki/people/bill-perkins.md
+- wiki/people/naval-ravikant.md
+
+### Created: Situation Pages (6 new)
+- wiki/situations/finding-meaning-in-adversity.md
+- wiki/situations/confronting-mortality.md
+- wiki/situations/structuring-life-around-peak-experiences.md
+- wiki/situations/stoic-daily-practice-under-pressure.md
+- wiki/situations/building-wealth-through-specific-knowledge.md
+- wiki/situations/resisting-status-games.md
+
+### Created: Synthesis Page
+- wiki/synthesis/meaning-values-and-the-good-life.md — Frankl/Seneca/Aurelius/Naval convergence on meaning and values; documented tension with Kotler performance cluster; Stoics vs. Perkins on experience; Frankl vs. Naval on suffering
+
+### Updated
+- wiki/index.md — Page count 74 → 101
+- wiki/log.md — This entry
+
+### Pages touched: 34 (27 new + 4 extended + 2 meta)
+### Source: LLM synthesis (no raw notes provided; Die With Zero: MEDIUM confidence — verify specific numerical thresholds before relying on them)
+
+---
+
 ## [2026-04-20] init | Wiki created
 
 - Initialized AGENTS.md schema
