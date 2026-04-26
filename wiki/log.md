@@ -483,3 +483,80 @@ No pages are missing from the index — all 45 audited files correspond to index
 - Source: LLM knowledge (no raw notes provided for any book)
 - Pages touched: 37 new + 10 updated = 47 total
 - Updated page count: 74 → 111
+
+---
+
+## [2026-04-26] ingest | Batch 3 — 7 Books: Numbers, Systems, Biology, Execution & Ownership
+
+**Books ingested (in order):**
+
+1. *Making Numbers Count* — Chip Heath & Karla Starr (2022) | Confidence: **MEDIUM** (2022; training coverage thin; specific chapter examples tagged `[VERIFY]`)
+2. *Working Backwards* — Colin Bryar & Bill Carr (2021) | Confidence: **HIGH**
+3. *Behave: The Biology of Humans at Our Best and Worst* — Robert Sapolsky (2017) | Confidence: **HIGH**
+4. *Extreme Ownership* — Jocko Willink & Leif Babin (2015) | Confidence: **HIGH**
+5. *Deep Work* — Cal Newport (2016) | Confidence: **HIGH**
+6. *Antifragile* — Nassim Nicholas Taleb (2012) | Confidence: **HIGH**
+7. *Principles: Life and Work* — Ray Dalio (2017) | Confidence: **HIGH**
+
+**Created (37 new files):**
+
+Books (7):
+- `wiki/books/heath-making-numbers-count.md`
+- `wiki/books/bryar-working-backwards.md`
+- `wiki/books/sapolsky-behave.md`
+- `wiki/books/willink-extreme-ownership.md`
+- `wiki/books/newport-deep-work.md`
+- `wiki/books/taleb-antifragile.md`
+- `wiki/books/dalio-principles.md`
+
+Concepts (11):
+- `wiki/concepts/numeracy-translation.md`
+- `wiki/concepts/working-backwards-pr-faq.md`
+- `wiki/concepts/leadership-principles-as-operating-system.md` (cross-book: bryar + willink + dalio)
+- `wiki/concepts/limbic-override.md`
+- `wiki/concepts/in-group-out-group-dynamics.md`
+- `wiki/concepts/extreme-ownership.md`
+- `wiki/concepts/decentralized-command.md`
+- `wiki/concepts/deep-work-vs-shallow-work.md`
+- `wiki/concepts/antifragility.md`
+- `wiki/concepts/optionality-and-asymmetric-bets.md`
+- `wiki/concepts/radical-transparency-and-algorithms.md`
+
+People (9):
+- `wiki/people/karla-starr.md`
+- `wiki/people/colin-bryar.md`
+- `wiki/people/bill-carr.md`
+- `wiki/people/robert-sapolsky.md`
+- `wiki/people/jocko-willink.md`
+- `wiki/people/leif-babin.md`
+- `wiki/people/cal-newport.md`
+- `wiki/people/nassim-taleb.md`
+- `wiki/people/ray-dalio.md`
+
+Situations (7):
+- `wiki/situations/communicating-data-to-non-technical-audiences.md`
+- `wiki/situations/building-culture-of-ownership.md`
+- `wiki/situations/biological-roots-of-conflict.md`
+- `wiki/situations/operating-with-extreme-ownership.md`
+- `wiki/situations/working-deeply-in-distracted-environment.md`
+- `wiki/situations/designing-antifragile-systems.md`
+- `wiki/situations/making-decisions-at-scale.md`
+
+Synthesis (1):
+- `wiki/synthesis/explicit-principles-as-leadership-os.md` — Amazon PR-FAQ + SEAL extreme ownership + Bridgewater radical transparency all share the same architectural pattern: explicit principles → enforcement mechanisms → visible reasoning → leader modeling at cost.
+
+Tracker (1):
+- `wiki/books/_batch3-pending-updates.md` — lists ~20 extensions to EXISTING concept pages (flow-states, resilience, goal-setting, sticky-communication, values-based-action, premortem, ruthless-prioritization, fear-management, incremental-progression) NOT YET APPLIED to the actual files.
+
+**Updated (2 files):**
+- `wiki/people/chip-heath.md` — sources frontmatter and books table extended with Making Numbers Count
+- `wiki/index.md` — all sections updated (Books +7, Concepts +11, People +9, Situations +7, Synthesis +1); total pages 74 → 110
+
+**Source:** LLM knowledge (no raw/ files provided for this batch)
+
+**Known deferred work:**
+- Extensions in `_batch3-pending-updates.md` must still be applied to the existing concept pages listed there.
+- `[VERIFY]` markers in `heath-making-numbers-count.md` should be confirmed against the actual book text.
+
+- Pages touched: 39 created + 2 updated = 41
+- Status: complete (index + log finalized; concept extensions deferred to next session)
