@@ -26,6 +26,14 @@
 | [Finding Flow](books/csikszentmihalyi-finding-flow.md) | Foundational flow psychology: challenge-skills model, autotelic personality, ESM research. | csikszentmihalyi-finding-flow | 2026-04-25 |
 | [Radical Candor](books/scott-radical-candor.md) | Care Personally × Challenge Directly: the 2×2 framework for honest, caring feedback. | scott-radical-candor | 2026-04-25 |
 | [Crucial Conversations](books/crucial-conversations.md) | Master high-stakes dialogue via Pool of Shared Meaning, STATE, AMPP, and safety restoration. | crucial-conversations | 2026-04-25 |
+| [What Got You Here Won't Get You There](books/goldsmith-what-got-you-here.md) | The 20 behavioral habits that cap leader effectiveness; feedforward as future-focused alternative to feedback. | goldsmith-what-got-you-here | 2026-04-26 |
+| [The Seven Habits of Highly Effective People](books/covey-seven-habits.md) | Character ethic + maturity continuum: 7 habits from dependence through independence to interdependence. | covey-seven-habits | 2026-04-26 |
+| [The One Minute Manager](books/blanchard-one-minute-manager.md) | Three secrets: One Minute Goals, Praisings, Reprimands — the simplest complete management system. | blanchard-one-minute-manager | 2026-04-26 |
+| [One Minute Mentoring](books/blanchard-one-minute-mentoring.md) | Intentional structured mentoring partnerships with mutual accountability and reciprocal learning. | blanchard-one-minute-mentoring | 2026-04-26 |
+| [Peopleware](books/demarco-peopleware.md) | Sociology matters more than technology; team jell and flow as the real determinants of knowledge-work productivity. | demarco-peopleware | 2026-04-26 |
+| [The Goal](books/goldratt-the-goal.md) | Theory of Constraints: identify/exploit/subordinate/elevate the system's one binding constraint. | goldratt-the-goal | 2026-04-26 |
+| [Humble Inquiry](books/schein-humble-inquiry.md) | Asking rather than telling builds the trust and candor that complex organizations require. | schein-humble-inquiry | 2026-04-26 |
+| [Eat That Frog!](books/tracy-eat-that-frog.md) | ABCDE method and 21 techniques for eating your most important task first every day. | tracy-eat-that-frog | 2026-04-26 |
 
 ---
 
@@ -65,8 +73,22 @@
 | [Rider-Elephant-Path](concepts/rider-elephant-path.md) | Three-lever change model: direct the Rider (rational), motivate the Elephant (emotional), shape the Path (environment). | heath-switch | 2026-04-25 |
 | [Sticky Communication](concepts/sticky-communication.md) | SUCCESs (Simple, Unexpected, Concrete, Credible, Emotional, Stories) defeats the Curse of Knowledge. | heath-made-to-stick | 2026-04-25 |
 | [Defining Moments](concepts/defining-moments.md) | Elevation, Insight, Pride, Connection — the four elements of disproportionately memorable experiences. | heath-power-of-moments | 2026-04-25 |
-| [Radical Candor](concepts/radical-candor.md) | Care Personally × Challenge Directly 2×2; four quadrants of management feedback style. | scott-radical-candor | 2026-04-25 |
+| [Radical Candor](concepts/radical-candor.md) | Care Personally × Challenge Directly 2×2; four quadrants of management feedback style. | scott-radical-candor, goldsmith-what-got-you-here, blanchard-one-minute-manager, schein-humble-inquiry | 2026-04-26 |
 | [Crucial Conversations Framework](concepts/crucial-conversations-framework.md) | Pool of Shared Meaning, Silence/Violence, STATE, AMPP, Three Clever Stories — high-stakes dialogue toolkit. | crucial-conversations | 2026-04-25 |
+| [Behavioral Blind Spots](concepts/behavioral-blind-spots.md) | Goldsmith's 20 habits that derail successful leaders; why success reinforces the very behaviors that limit growth. | goldsmith-what-got-you-here | 2026-04-26 |
+| [Feedforward](concepts/feedforward.md) | Future-focused alternative to feedback: asking for ideas on what to do differently, not judgments of the past. | goldsmith-what-got-you-here | 2026-04-26 |
+| [Maturity Continuum](concepts/maturity-continuum.md) | Covey's three-stage progression: Dependence → Independence → Interdependence. | covey-seven-habits | 2026-04-26 |
+| [Time Management Matrix](concepts/time-management-matrix.md) | Covey's Q1-Q4 grid: Urgent/Important quadrants; Q2 (important, not urgent) as the leadership leverage zone. | covey-seven-habits, tracy-eat-that-frog | 2026-04-26 |
+| [Emotional Bank Account](concepts/emotional-bank-account.md) | Covey's trust metaphor: six deposits/withdrawals that build or erode relationship capital. | covey-seven-habits | 2026-04-26 |
+| [Circle of Influence](concepts/circle-of-influence.md) | Proactive focus on what you can change vs. reactive focus on the Circle of Concern. | covey-seven-habits | 2026-04-26 |
+| [One Minute Management](concepts/one-minute-management.md) | Three secrets: One Minute Goals, Praisings, and Reprimands/Redirects — situational leadership in action. | blanchard-one-minute-manager | 2026-04-26 |
+| [Mentoring Partnership](concepts/mentoring-partnership.md) | Five-phase structured mentoring with mutual accountability and reciprocal learning. | blanchard-one-minute-mentoring | 2026-04-26 |
+| [Team Jell](concepts/team-jell.md) | DeMarco's concept of teams that become a cohesive unit with higher productivity and lower turnover. | demarco-peopleware | 2026-04-26 |
+| [Theory of Constraints](concepts/theory-of-constraints.md) | Goldratt's five focusing steps: identify/exploit/subordinate/elevate the system's binding constraint. | goldratt-the-goal | 2026-04-26 |
+| [Throughput Thinking](concepts/throughput-thinking.md) | Measuring success by global Throughput (money earned) not local efficiency; T/I/OE framework. | goldratt-the-goal | 2026-04-26 |
+| [Humble Inquiry](concepts/humble-inquiry.md) | Art of asking questions the asker doesn't already know the answer to; prerequisite for trust and candor. | schein-humble-inquiry | 2026-04-26 |
+| [Psychological Safety](concepts/psychological-safety.md) | Team climate where interpersonal risk feels safe; prerequisite for learning, candor, and innovation. | schein-humble-inquiry, demarco-peopleware | 2026-04-26 |
+| [Procrastination Framework](concepts/procrastination-framework.md) | Tracy's ABCDE method + KRAs + single-handling + 21 techniques for eliminating procrastination. | tracy-eat-that-frog | 2026-04-26 |
 
 ---
 
@@ -87,6 +109,13 @@
 | [Mihaly Csikszentmihalyi](people/mihaly-csikszentmihalyi.md) | Father of flow psychology; coined "flow"; ESM pioneer; positive psychology founder. | csikszentmihalyi-finding-flow | 2026-04-25 |
 | [Kim Scott](people/kim-scott.md) | Author of Radical Candor; former Google/Apple exec; CEO coach. | scott-radical-candor | 2026-04-25 |
 | [Kerry Patterson](people/kerry-patterson.md) | Lead author of Crucial Conversations; co-founder of VitalSmarts/Crucial Learning. | crucial-conversations | 2026-04-25 |
+| [Marshall Goldsmith](people/marshall-goldsmith.md) | World's top executive coach; 20 habits; feedforward; Thinkers50 Hall of Fame. | goldsmith-what-got-you-here | 2026-04-26 |
+| [Stephen Covey](people/stephen-covey.md) | Author of The Seven Habits; character ethic; FranklinCovey co-founder. | covey-seven-habits | 2026-04-26 |
+| [Kenneth Blanchard](people/kenneth-blanchard.md) | One Minute Manager; Situational Leadership II; Blanchard Companies founder. | blanchard-one-minute-manager, blanchard-one-minute-mentoring | 2026-04-26 |
+| [Tom DeMarco](people/tom-demarco.md) | + Timothy Lister; Peopleware; Atlantic Systems Guild; software engineering sociologist. | demarco-peopleware | 2026-04-26 |
+| [Eliyahu Goldratt](people/eliyahu-goldratt.md) | Israeli physicist; Theory of Constraints creator; Socratic business novelist. | goldratt-the-goal | 2026-04-26 |
+| [Edgar Schein](people/edgar-schein.md) | MIT Sloan; organizational culture; humble inquiry; process consultation. | schein-humble-inquiry | 2026-04-26 |
+| [Brian Tracy](people/brian-tracy.md) | Self-help trainer; ABCDE method; KRAs; author of 70+ books on personal effectiveness. | tracy-eat-that-frog | 2026-04-26 |
 
 ---
 
@@ -102,6 +131,13 @@
 | [Starting a New Leadership Role](situations/starting-a-new-leadership-role.md) | First 90 days in a new leadership position; STARS, early wins, and Stoic response discipline. | watkins-first-90-days, heath-decisive, arbinger-self-deception, kotler-art-of-impossible, stoic-leader | 2026-04-25 |
 | [Feeling Like an Underachiever](situations/feeling-like-an-underachiever.md) | Depressed about being an underachiever — six-step approach from label to values. | burns-feeling-good, harris-happiness-trap, brewer-unwinding-anxiety, arbinger-anatomy-of-peace, kotler-art-of-impossible | 2026-04-20 |
 | [You Suddenly Feel Low](situations/sudden-low-mood.md) | Acute mood drop — RAIN first aid, then CBT/defusion/Stoic agency as needed. | brewer-unwinding-anxiety, burns-feeling-good, harris-happiness-trap, stoic-leader, kotler-art-of-impossible | 2026-04-25 |
+| [Managing Behavioral Blind Spots](situations/managing-behavioral-blind-spots.md) | Leader has interpersonal habits invisible to them that limit effectiveness despite other strengths. | goldsmith-what-got-you-here | 2026-04-26 |
+| [Managing Bottlenecks and Constraints](situations/managing-bottlenecks-and-constraints.md) | Team or process underperforms despite high activity; capacity mismatch; local heroes vs. system output. | goldratt-the-goal | 2026-04-26 |
+| [Creating Psychological Safety Through Questions](situations/creating-psychological-safety-through-questions.md) | Team doesn't speak up; bad news travels slowly; silence norms; innovation is suppressed. | schein-humble-inquiry, demarco-peopleware | 2026-04-26 |
+| [Delegating and Developing Direct Reports](situations/delegating-and-developing-direct-reports.md) | Manager needs to get work done through others while simultaneously growing their capability. | blanchard-one-minute-manager, blanchard-one-minute-mentoring, covey-seven-habits | 2026-04-26 |
+| [Overcoming Procrastination](situations/overcoming-procrastination.md) | Consistently delaying the most important tasks while filling time with lower-value activity. | tracy-eat-that-frog, covey-seven-habits | 2026-04-26 |
+| [Leading High-Performing Teams](situations/leading-high-performing-teams.md) | Moving a functional team to exceptional; creating conditions for jell, flow, and sustained high output. | demarco-peopleware, covey-seven-habits, goldratt-the-goal | 2026-04-26 |
+| [Building Effective Habits and Systems](situations/building-effective-habits-and-systems.md) | Gap between intended and consistent behavior; want reliable personal systems for goals, priorities, and growth. | tracy-eat-that-frog, covey-seven-habits, goldsmith-what-got-you-here | 2026-04-26 |
 
 ---
 
@@ -113,4 +149,4 @@
 
 ---
 
-*Total pages: 74 | Last updated: 2026-04-25*
+*Total pages: 111 | Last updated: 2026-04-26*

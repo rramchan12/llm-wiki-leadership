@@ -2,9 +2,9 @@
 title: "Flow States"
 category: concept
 tags: [flow, peak-performance, psychology, self-leadership, focus]
-sources: [kotler-gnar-country, kotler-art-of-impossible, kotler-rise-of-superman, csikszentmihalyi-finding-flow]
+sources: [kotler-gnar-country, kotler-art-of-impossible, kotler-rise-of-superman, csikszentmihalyi-finding-flow, demarco-peopleware]
 created: 2026-04-20
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # Flow States
@@ -25,6 +25,7 @@ Flow is the mechanism behind peak performance. It's not mystical — it's a trai
 | [[csikszentmihalyi-finding-flow]] | Foundational | Coined "flow." Challenge-skills balance model, ESM research, autotelic personality. The psychology that all later flow science builds upon. |
 | [[brewer-unwinding-anxiety]] | Implicit | Curiosity — a core flow trigger — is also the "bigger better offer" that replaces anxiety. Flow and anxiety are incompatible states. |
 | [[harris-happiness-trap]] | Implicit | ACT's present-moment awareness and willingness are prerequisites for flow. Fusion and avoidance block flow. |
+| [[demarco-peopleware]] | Organizational | Knowledge workers require uninterrupted concentration to enter flow. Average time to reach flow: 15–20 minutes. A single interruption resets the clock. The E-factor (ratio of uninterrupted hours to total "body present" hours) is the key organizational productivity variable. Open offices and constant interruptions systematically destroy it. |
 
 ## Key Principles
 
@@ -33,8 +34,9 @@ Flow is the mechanism behind peak performance. It's not mystical — it's a trai
 - **Visual cues:** Staring at a target with "excited curiosity" steers the body toward it — an ancient motor-action plan
 - **Group flow:** Shared risk and mutual challenge among training partners produces collective flow states
 - **Flow cycle:** Struggle → release → flow → recovery. All four phases are necessary.
+- **E-factor (knowledge work):** Ratio of uninterrupted work hours to total hours present. Interruptions that take 15–20 minutes to fully exit compound severely in open-plan environments.
 
 ## Connections
 
-- Related: [[fear-management]], [[goal-setting]], [[community-and-group-flow]], [[fast-geometry]], [[intrinsic-motivation]], [[psychological-flexibility]]
-- Applied in: [[peak-performance-aging]], [[incremental-progression]], [[pursuing-impossible-goals]]
+- Related: [[fear-management]], [[goal-setting]], [[community-and-group-flow]], [[fast-geometry]], [[intrinsic-motivation]], [[psychological-flexibility]], [[team-jell]], [[time-management-matrix]]
+- Applied in: [[peak-performance-aging]], [[incremental-progression]], [[pursuing-impossible-goals]], [[leading-high-performing-teams]]

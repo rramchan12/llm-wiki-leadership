@@ -446,3 +446,40 @@ No pages are missing from the index — all 45 audited files correspond to index
 - `wiki/situations/managing-negative-thought-patterns.md` (added cross-link to sudden-low-mood)
 - `README.md` (book count 9 → 18, updated categorized library)
 - Pages touched: 5
+
+---
+
+## [2026-04-26] ingest | Batch 2 — Leadership Operating System Classics (8 books)
+
+### Books Ingested
+- What Got You Here Won't Get You There — Marshall Goldsmith (HIGH confidence)
+- The Seven Habits of Highly Effective People — Stephen R. Covey (HIGH confidence)
+- The One Minute Manager — Kenneth Blanchard & Spencer Johnson (HIGH confidence)
+- One Minute Mentoring — Kenneth Blanchard & Claire Shankman (MEDIUM confidence; MENTOR acronym marked [VERIFY])
+- Peopleware — Tom DeMarco & Timothy Lister (HIGH confidence)
+- The Goal — Eliyahu Goldratt (HIGH confidence)
+- Humble Inquiry — Edgar H. Schein (HIGH confidence)
+- Eat That Frog! — Brian Tracy (HIGH confidence)
+
+### Created (37 new pages)
+- `wiki/books/`: goldsmith-what-got-you-here, covey-seven-habits, blanchard-one-minute-manager, blanchard-one-minute-mentoring, demarco-peopleware, goldratt-the-goal, schein-humble-inquiry, tracy-eat-that-frog (8 pages)
+- `wiki/concepts/`: behavioral-blind-spots, feedforward, maturity-continuum, time-management-matrix, emotional-bank-account, circle-of-influence, one-minute-management, mentoring-partnership, team-jell, theory-of-constraints, throughput-thinking, humble-inquiry, psychological-safety, procrastination-framework (14 pages)
+- `wiki/people/`: marshall-goldsmith, stephen-covey, kenneth-blanchard, tom-demarco, eliyahu-goldratt, edgar-schein, brian-tracy (7 pages)
+- `wiki/situations/`: managing-behavioral-blind-spots, managing-bottlenecks-and-constraints, creating-psychological-safety-through-questions, delegating-and-developing-direct-reports, overcoming-procrastination, leading-high-performing-teams, building-effective-habits-and-systems (7 pages)
+- `wiki/books/_batch2-pending-updates.md` — staging file tracking 13 concept-update entries (1 page)
+
+### Updated (existing pages)
+- `wiki/concepts/radical-candor.md` — added Goldsmith (feedforward), Blanchard (praisings/reprimands), Schein (inquiry prerequisite)
+- `wiki/concepts/goal-setting.md` — added Covey (Begin with End/Q2), Tracy (ABCDE/KRAs)
+- `wiki/concepts/ruthless-prioritization.md` — added Covey (Q2 matrix), Tracy (ABCDE/creative procrastination)
+- `wiki/concepts/flow-states.md` — added DeMarco/Peopleware (E-factor, interruption, knowledge-worker flow)
+- `wiki/concepts/habit-loops.md` — added Goldsmith (success-reinforced loops), Tracy (procrastination loop)
+- `wiki/concepts/values-based-action.md` — added Covey (character ethic identity layer)
+- `wiki/concepts/resilience.md` — added Covey (Habit 7 four-dimension renewal)
+- `wiki/concepts/intrinsic-motivation.md` — added Covey (maturity continuum + character-based purpose)
+- `wiki/index.md` — 37 new page rows added; total: 74 → 111
+- `wiki/log.md` — this entry
+
+- Source: LLM knowledge (no raw notes provided for any book)
+- Pages touched: 37 new + 10 updated = 47 total
+- Updated page count: 74 → 111

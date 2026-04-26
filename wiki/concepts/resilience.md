@@ -2,9 +2,9 @@
 title: "Resilience"
 category: concept
 tags: [leadership, performance, resilience, gnar-country]
-sources: [kotler-gnar-country, kotler-art-of-impossible]
+sources: [kotler-gnar-country, kotler-art-of-impossible, covey-seven-habits]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-04-26
 ---
 
 # Resilience
@@ -21,6 +21,7 @@ Every ambitious pursuit involves injury, failure, and setback. Resilience is wha
 |------|--------|-------------|
 | [[kotler-gnar-country]] | Central theme | Resilience is built through stacked practices, progressive overload, and community support. Recovery from setback requires attention to sleep, nutrition, and stress management — not just willpower. "The hard way" is the path that builds the most durable resilience. |
 | [[kotler-art-of-impossible]] | Supports | Peak performers treat failure as data, not identity. The motivation stack — especially purpose and mastery — provides the intrinsic fuel to persist through setbacks that would derail extrinsically-motivated performers. |
+| [[covey-seven-habits]] | Structural | Habit 7 (Sharpen the Saw) is Covey's resilience chapter: systematic renewal across four dimensions keeps the other six habits sustainable. Physical (exercise, nutrition, sleep), Mental (learning, reading, reflection), Spiritual (values clarification, mission), Social/Emotional (investing in relationships, service). Without sharpening, the saw dulls — regardless of how hard you work. |
 
 ## Key Principles
 
@@ -29,8 +30,9 @@ Every ambitious pursuit involves injury, failure, and setback. Resilience is wha
 - **Community as resilience infrastructure:** Training partners and tribe reduce the psychological cost of setbacks
 - **Recovery is non-negotiable:** Sleep, nutrition, and stress management are resilience practices, not luxuries
 - **Failure as data:** Resilient performers analyze setbacks rather than avoiding them
+- **Sharpen the Saw:** Systematic renewal across four dimensions (physical, mental, spiritual, social/emotional) maintains the capacity for sustained effort
 
 ## Connections
 
-- Related: [[incremental-progression]], [[stacked-practices]], [[community-and-group-flow]], [[gnar-country-mindset]], [[fear-management]]
-- Applied in: [[pursuing-impossible-goals]], [[breaking-anxiety-cycles]]
+- Related: [[incremental-progression]], [[stacked-practices]], [[community-and-group-flow]], [[gnar-country-mindset]], [[fear-management]], [[values-based-action]]
+- Applied in: [[pursuing-impossible-goals]], [[breaking-anxiety-cycles]], [[building-effective-habits-and-systems]]

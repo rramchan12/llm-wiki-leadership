@@ -2,9 +2,9 @@
 title: "Habit Loops"
 category: concept
 tags: [habits, neuroscience, behavior-change, anxiety, mindfulness, reward-learning]
-sources: [brewer-unwinding-anxiety, harris-happiness-trap, kotler-art-of-impossible]
+sources: [brewer-unwinding-anxiety, harris-happiness-trap, kotler-art-of-impossible, goldsmith-what-got-you-here, tracy-eat-that-frog]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-26
 ---
 
 # Habit Loops
@@ -43,6 +43,8 @@ The brain doesn't care if the reward is objectively good — it only cares about
 | [[kotler-art-of-impossible]] | Positive loops | Peak performance habit loops: curiosity (trigger) → exploration (behavior) → dopamine + learning (reward). The same mechanism drives excellence when the reward is genuine. |
 | [[burns-feeling-good]] | Implicit | The anti-procrastination sheet works by updating the reward value: predicted difficulty is high, actual difficulty is low. The brain updates. |
 | [[arbinger-self-deception]] | Relational loops | Collusion is a two-person habit loop: self-betrayal → self-justification → provoking the other → confirming the justification → repeat. |
+| [[goldsmith-what-got-you-here]] | Interpersonal loops | The 20 habits that hold leaders back are success-reinforced habit loops: past behavior produces success (reward) → brain strengthens the habit → behavior becomes invisible. The success delusion is the loop's self-sealing mechanism. |
+| [[tracy-eat-that-frog]] | Procrastination loop | Procrastination is a habit loop: trigger (difficult task) → behavior (avoidance/busywork) → reward (temporary relief). Tracy's environment-design interventions (prepare the workspace; eat the frog first) target the trigger and reduce the avoidance behavior's relative reward. |
 
 ## Connections
 
@@ -50,4 +52,6 @@ The brain doesn't care if the reward is objectively good — it only cares about
 - Related: [[psychological-flexibility]] (flexibility = ability to step outside the loop)
 - Related: [[cognitive-defusion]] (defusion interrupts the trigger → behavior chain)
 - Related: [[flow-states]] (flow is a positive habit loop: challenge → engagement → reward → more challenge)
-- Applied in: [[breaking-anxiety-cycles]], [[managing-negative-thought-patterns]], [[feeling-like-an-underachiever]]
+- Related: [[behavioral-blind-spots]] (success-reinforced loops are the habit mechanism behind blind spots)
+- Related: [[procrastination-framework]] (procrastination as habit loop; ABCDE as environmental interrupt)
+- Applied in: [[breaking-anxiety-cycles]], [[managing-negative-thought-patterns]], [[feeling-like-an-underachiever]], [[overcoming-procrastination]], [[building-effective-habits-and-systems]]

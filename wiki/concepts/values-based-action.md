@@ -2,9 +2,9 @@
 title: "Values-Based Action"
 category: concept
 tags: [values, purpose, meaning, self-leadership, act, motivation]
-sources: [harris-happiness-trap, kotler-art-of-impossible, kotler-gnar-country, heath-decisive, arbinger-anatomy-of-peace, stoic-leader, scott-radical-candor]
+sources: [harris-happiness-trap, kotler-art-of-impossible, kotler-gnar-country, heath-decisive, arbinger-anatomy-of-peace, stoic-leader, scott-radical-candor, covey-seven-habits]
 created: 2026-04-20
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # Values-Based Action
@@ -36,9 +36,10 @@ Without values clarity, decisions default to emotional avoidance: we do what fee
 | [[arbinger-anatomy-of-peace]] | Supports | A "heart at peace" emerges when you see and act toward others in accordance with your deepest sense of what's right. |
 | [[stoic-leader]] | Reinforces | Values become durable when translated into daily character standards; act on what is controllable and aligned with virtue. |
 | [[scott-radical-candor]] | Applies | Challenging directly — giving honest feedback despite discomfort — is a values-based act. Ducking the hard conversation (Ruinous Empathy) is values avoidance. |
+| [[covey-seven-habits]] | Deepest layer | Covey's character ethic is values-based action at the identity level. The Personal Mission Statement (Habit 2) is effectively a values charter — all behavior flows from it. Unlike ACT (which clarifies values) or Kotler (which extends values to purpose/MTP), Covey argues that values create the very character from which a person acts. |
 
 ## Connections
 
-- Related: [[psychological-flexibility]], [[intrinsic-motivation]], [[goal-setting]], [[dichotomy-of-control]], [[stoic-virtues]]
+- Related: [[psychological-flexibility]], [[intrinsic-motivation]], [[goal-setting]], [[dichotomy-of-control]], [[stoic-virtues]], [[maturity-continuum]]
 - Related: [[ruthless-prioritization]] — values are the filter for what gets your limited time
-- Applied in: [[managing-negative-thought-patterns]], [[pursuing-impossible-goals]], [[feeling-like-an-underachiever]]
+- Applied in: [[managing-negative-thought-patterns]], [[pursuing-impossible-goals]], [[feeling-like-an-underachiever]], [[building-effective-habits-and-systems]], [[overcoming-procrastination]]

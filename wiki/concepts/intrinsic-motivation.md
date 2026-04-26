@@ -2,9 +2,9 @@
 title: "Intrinsic Motivation"
 category: concept
 tags: [motivation, purpose, curiosity, passion, autonomy, mastery, self-leadership, peak-performance]
-sources: [kotler-art-of-impossible, kotler-gnar-country, kotler-rise-of-superman, csikszentmihalyi-finding-flow, harris-happiness-trap, brewer-unwinding-anxiety]
+sources: [kotler-art-of-impossible, kotler-gnar-country, kotler-rise-of-superman, csikszentmihalyi-finding-flow, harris-happiness-trap, brewer-unwinding-anxiety, covey-seven-habits]
 created: 2026-04-20
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # Intrinsic Motivation
@@ -39,9 +39,10 @@ At the top: **Massively Transformative Purpose (MTP)** — a mission statement s
 | [[csikszentmihalyi-finding-flow]] | Foundational | The autotelic personality — setting goals for every activity, becoming immersed, proportioning skills to challenges — is intrinsic motivation as a daily practice. |
 | [[harris-happiness-trap]] | Supports | ACT's [[values-based-action]] is the therapeutically grounded version of intrinsic motivation: act from what matters, not from what avoids pain. |
 | [[brewer-unwinding-anxiety]] | Supports | Curiosity is both the foundation of intrinsic motivation (Kotler) and the "bigger better offer" that replaces anxiety (Brewer). Same mechanism, different application. |
+| [[covey-seven-habits]] | Structural | Covey's maturity continuum (see [[maturity-continuum]]) frames the highest motivation as interdependence — contribution to something beyond yourself. The Personal Mission Statement (Habit 2) is a formalized intrinsic motivation architecture: beginning with your deepest values and contribution goals, then working outward. Covey argues that character-based purpose is more durable than either personality or extrinsic motivation. |
 
 ## Connections
 
-- Related: [[values-based-action]], [[goal-setting]], [[flow-states]]
+- Related: [[values-based-action]], [[goal-setting]], [[flow-states]], [[maturity-continuum]]
 - Related: [[habit-loops]] — intrinsic motivation creates positive reward loops
-- Applied in: [[pursuing-impossible-goals]], [[feeling-like-an-underachiever]]
+- Applied in: [[pursuing-impossible-goals]], [[feeling-like-an-underachiever]], [[building-effective-habits-and-systems]]
