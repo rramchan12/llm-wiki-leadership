@@ -30,6 +30,35 @@ The first 90 days are the highest-leverage and highest-risk period of any leader
 4. **Check your box** (Arbinger): Are you entering this role trying to prove yourself (Better-Than), feeling entitled (I-Deserve), or needing to appear impressive (Must-Be-Seen-As)? Any of these = [[self-deception]] that will undermine your first 90 days.
 5. **Run a Stoic control check:** Separate what you can own now (preparation, behavior, standards) from what you cannot (legacy politics, inherited reputation). See [[dichotomy-of-control]].
 
+### Your First Team Introduction — Template (60–90 seconds)
+
+**Principles:** Understated over big-bang. Outward over inward. Curiosity over credentials.
+
+> **[Brief — who you are, 2–3 sentences max]**
+> "Hi everyone, I'm [Name]. I'm joining as [role] and I'm genuinely excited to be here."
+>
+> **[Vulnerable/honest — how you're approaching this]**
+> "I'm going to spend my first few weeks mostly listening and learning. I don't want to assume I know what's working or what needs to change — you all know that better than I do."
+>
+> **[Pivot to them — curiosity]**
+> "I'll be reaching out to each of you for a 1:1 in the coming days. I want to hear what's on your mind — what's going well, what's frustrating, what I should know that nobody will tell me unprompted."
+>
+> **[Close — light, human]**
+> Something personal, warm, low-stakes. A callback to a visual prop, a self-deprecating detail, a genuine enthusiasm.
+
+**What to avoid:**
+- Leading with your resume or LinkedIn (signals inward mindset)
+- Vision statements before you've earned credibility
+- Promises you haven't reality-tested yet
+
+**Why this works:**
+- [[outward-mindset]]: Focus is on them, not your credentials
+- [[defining-moments]]: Breaks the script (most new leaders open with a career deck)
+- [[early-wins]]: Announces the listening tour, setting up your first 30 days
+- [[radical-candor]]: Signals that honest feedback is welcome from Day 1
+
+---
+
 ### Days 1–30 — Learn Systematically
 
 1. **Create a learning plan.** Identify the 10–15 people who know what you need to know. Schedule one-on-ones.
