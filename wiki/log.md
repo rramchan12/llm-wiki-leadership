@@ -5,6 +5,12 @@
 
 ---
 
+## [2026-05-05] query | Soliciting Feedback from Manager and VP
+- Created: wiki/situations/soliciting-upward-feedback.md
+- Sources synthesized: goldsmith-what-got-you-here, scott-radical-candor, crucial-conversations, schein-humble-inquiry, covey-seven-habits
+- Updated: wiki/index.md (added new situation page, page count 111→112)
+- Pages touched: 2
+
 ## [2026-04-26] update | Add 3 missing coaching/listening concept pages
 
 - **Created:** wiki/concepts/empathic-listening.md — Covey Habit 5, AMPP, Arbinger Pyramid, Goldsmith blind spot #13; multi-source synthesis

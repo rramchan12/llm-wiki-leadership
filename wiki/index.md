@@ -198,6 +198,7 @@
 | [Stoic Daily Practice Under Pressure](situations/stoic-daily-practice-under-pressure.md) | Sustained high-stakes pressure — a full morning/day/evening Stoic practice framework. | aurelius-meditations, seneca-letters-from-a-stoic, stoic-leader | 2026-04-26 |
 | [Building Wealth Through Specific Knowledge](situations/building-wealth-through-specific-knowledge.md) | Career inflection: shift from time-selling to specific knowledge and leverage-building. | jorgenson-naval-almanack | 2026-04-26 |
 | [Resisting Status Games](situations/resisting-status-games.md) | Pulled by social comparison, prestige, or external validation — reorient toward intrinsic values. | jorgenson-naval-almanack, frankl-mans-search-for-meaning, aurelius-meditations, seneca-letters-from-a-stoic | 2026-04-26 |
+| [Soliciting Feedback from Your Manager and VP](situations/soliciting-upward-feedback.md) | How to ask for honest, actionable upward feedback — specific questions, safety, receiving, follow-up. | goldsmith-what-got-you-here, scott-radical-candor, crucial-conversations, schein-humble-inquiry, covey-seven-habits | 2026-05-05 |
 
 ---
 
@@ -211,4 +212,4 @@
 
 ---
 
-*Total pages: 111 | Last updated: 2026-04-26*
+*Total pages: 112 | Last updated: 2026-05-05*
